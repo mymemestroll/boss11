@@ -2,21 +2,25 @@
   "matches": [
     {
       "type": "T20 World Cup",
-      "pointsTableSectionHeading": "T20 World Cup Points Table",
+      "pointsTableSectionHeading": "",
       "pointsTable": [
         {
-          "title": "Group Stage",
+          "title": "Most RUns Stage",
           "htmlData": "<html>...</html>"
         },
         {
           "title": "Knockout Stage",
           "htmlData": "<html>...</html>"
+        },
+        {
+          "title": "Kn",
+          "htmlData": "uhds"
         }
       ]
     },
     {
       "type": "IPL",
-      "pointsTableSectionHeading": "IPL Points Table",
+      "pointsTableSectionHeading": "",
       "pointsTable": [
         {
           "title": "Group Stage",
