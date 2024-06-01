@@ -82,97 +82,13 @@
     Write, edit and run HTML, CSS and JavaScript code online.
   </h1>",
       "teamScreenShorts": ""
-    },
-
-    {
-      "id": "01125532553d",
-      "matchNumber": "WORLD CUP WARM UP",
-      "name": "WORLD CUP 2024 // SL vs NED",
-      "date": "31 May 2024",
-      "dateTimeGMT": "08:00 PM",
-      "time": "08:00 PM",
-      "venue": " Central Broward Park & Broward County Stadium ",
-      "status": "Upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "SL",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-          "name": "SL"
-        },
-        {
-          "code": "NED",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-          "name": "NED"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiFbekfUZtgjwy2GxgkH-65qHlhvGLijqBvUVhe6ebWyFkKgUwIe-c1IfElg3-VLbb6IH1YordvCAQFzhMwPz8-k8ka39YZgeWJcEjdZ3JkmmxQSxQwhdoNmVlzfRNQWc1-Lls6hLU6ojkU7Pv2sfnacxOPIbMnmgd6xMF8x9kqQ8jSBuW73nLmWxnDnfb8"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi6FzcKlkzSwFuS3moJ5cSWUR7vOFSTl3FFNU2jLZB40Y5lY8_yOblqN7dgoDu4oKJTGA-_0Kf1qpUCT0tB_cm8M69bQJZRVNVem_JgDfwBydOsR295V3Pdq1MY0i88JWc_AMBc0f-iNuVDjUQVjI0dSOVb5P5eIIzWS0awM5e5YPT9ZKj-Rk_TOGIZmslg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi13DaRkmFWF56CIqsUqTsm832wnesyusrn2Cxk2FIXBgv4Pay2u7DeBwnFXJgGL59X0-wQAayiERSbJny1-UfA2NMmuB4GQ9qEZOomNXP-_ClB6dD2t9aXPEdJWtuKLawETgHHrLIriajkHSXoYj0mROzz44TItDXqM4MrqF42Bhnv9EKTHkGzFDBZXWdY"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiZ71B_4-22Kv9sCHBLEixsiYArlM28AIi4Jq_j9dpXDNK7UkgxcAu9xDDk-my2E7FL-v9FDJ9OmUY3BhhHJCxLz8z7s23peYO2puv02VSDfCYEzfjEzC839FDG3rtrzbGkpSm5twm_2OcqpYdgRAph82iB6xAkphqwHTphz42aT8onmeDlYO_HopOTqz84"
-        },
-        {
-          "title": "Small League Balance- Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgX4w1HTtjv9ai28GFWg5EAxvopO8zZgzvhtkhkCEZBw1sk8Hb-DFG3ChIxtp0wE0qtzCs_OPpaPV-E8O7hrvIn1j4TK7pcmlKbkTwcKxUkWV4Z9CfyRVoAaA22Kx19dXLwAib5oV0XVEzqAL8uOMlxfZJteQDQzBCIRu1F5ju9SJj_SBUN16wc0yS2xhXH"
-        }
-      ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjIuLCRcin9Gqjii5LY2xNcOlwGz3XFRe6VAMyqOB4pVv29LUVkz06wqfbZgvoOvjHzYJlj7jChc4IgQurbNhWmx2r1hAeLLwMWAVy5ZV9lUAgMW6GVto2jyUP-0beEMu8YaG-fc8JjKxx6zJ6Q9gpmrGrWQItY7conA2MKb61SDGwNaDuD1voF_X6ZGJ-4"
-        },
-         {
-          "title": "SMALL - PRE TOSS TEAM 2",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjIuLCRcin9Gqjii5LY2xNcOlwGz3XFRe6VAMyqOB4pVv29LUVkz06wqfbZgvoOvjHzYJlj7jChc4IgQurbNhWmx2r1hAeLLwMWAVy5ZV9lUAgMW6GVto2jyUP-0beEMu8YaG-fc8JjKxx6zJ6Q9gpmrGrWQItY7conA2MKb61SDGwNaDuD1voF_X6ZGJ-4"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SL"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        },
-         {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
     }
 
     ,{
       "id": "worldCup1",
       "matchNumber": "T20 WORLD CUP 1 OF 55",
       "name": "WORLD CUP 2024 // USA vs CAN",
-      "date": "01 JUNE 2024",
+      "date": "02 JUNE 2024",
       "dateTimeGMT": "06:00 AM",
       "time": "06:00 AM",
       "venue": "Grand Prairie Stadium",
