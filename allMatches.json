@@ -168,38 +168,6 @@
       "teamScreenShorts": ""
     },
     
-    {
-      "id": "MATCH1",
-      "matchNumber": "T20 MATCH 67 OF 74",
-      "name": "TATA IPL 2024 // MI vs LSG",
-      "date": "17 May 2024",
-      "dateTimeGMT": "07:30 PM",
-      "time": "07:30 PM",
-      "venue": "Wankhede Stadium",
-      "status": "upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "MI",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/JTre94vh6WJeLmIL-Dfc1g_96x96.png",
-          "name": "MI"
-        },
-        {
-          "code": "LSG",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/b6uyRF-RX56muhQOv1-Z3A_96x96.png",
-          "name": "LSG"
-        }
-      ],
-      "headTeam": [],
-      "megaTeam": [],
-      "premiumTeam": [],
-      "smallTeam": [],
-      "matchOpinion": [],
-      "preview": "na",
-      "teamPreviewHTML": "",
-      "teamScreenShorts": ""
-    },
-  
+    
   ]
 }
