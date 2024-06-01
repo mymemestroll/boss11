@@ -200,37 +200,6 @@
       "teamPreviewHTML": "",
       "teamScreenShorts": ""
     },
-    {
-      "id": "01125532553d",
-      "matchNumber": "T20 MATCH 68 OF 74",
-      "name": "TATA IPL 2024 // RCB vs CSK",
-      "date": "18 May 2024",
-      "dateTimeGMT": "07:30 PM",
-      "time": "07:30 PM",
-      "venue": "M. Chinnaswamy Stadium",
-      "status": "upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "RCB",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/f958HPOsI1ugsHmwc4piCw_96x96.png",
-          "name": "RCB"
-        },
-        {
-          "code": "CSK",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/exZiFUT_GXScTyr358t7SQ_96x96.png",
-          "name": "CSK"
-        }
-      ],
-      "headTeam": [],
-      "megaTeam": [],
-      "premiumTeam": [],
-      "smallTeam": [],
-      "matchOpinion": [],
-      "preview": "na",
-      "teamPreviewHTML": "",
-      "teamScreenShorts": ""
-    }
+  
   ]
 }
