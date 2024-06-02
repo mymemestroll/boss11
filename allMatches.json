@@ -11,7 +11,7 @@
       "venue": "Providence Stadium",
       "status": "upcoming",
       "matchType": "T20",
-      "preTossTeam": "na",
+      "preTossTeam": "success",
       "teamDetails": [
         {
           "code": "WI",
