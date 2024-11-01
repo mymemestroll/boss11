@@ -24,18 +24,9 @@
           "name": "HB-W"
         }
       ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi2E7kEXvPypQlQYglWafbNYE0IbMpPPRF0OorHiAlRG7z93rIAyAOBDeOc1GV9Q_nntYGNCbkTgkPkCXrYzW0Gu0ukXwlIl3wSHcKsWfifEAgdwrokGvYZOJGENJwCh-y3Pdt-B54aA2kscPLLfYKXqLSTpSYrxbpwy8maUSKqqxtQLrVUOeysjc_aYT3q"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjcXvmdYbi9Z0ocbvnSIDgfJtoqnQ8AtSGoh9MS8Ry-BZ2_IbIixHvKVtfjcK39I89wcbFCxBXa4WHlbaNJd86yqLZBhtC5BAuLIMCo_XgU3TfCwzgt7DImrXt_86VaU72vHG0u5EfFxeOwKmLSF7CTukI7YBv208R3UQwmupZvPAlSNp-EvruV6XwJq_Mt"
-        }
-      ],
+
+
+      
       "premiumTeam": [
         {
           "title": "Mega League Balance - Pre Toss Team",
@@ -50,24 +41,20 @@
           "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhV6FYCsT12jFQS9-RkhSTslSYGngoeYXF8378w_Lk29Da-t3bnq1qKcVqNlmXmjv5hHWm9jEbaeuEG0li-Nphh7ohzDN0ygNLWgJsy6jGUSvBOgHRAx-gjalc-67U9lCD-9bxJQQsDLZOQjIh6-DleIApQFn4d00jlL0HQzMaSILgozeUetTozy5lUI78V"
         }
       ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg5r19iAB6Tco_W1f7lwt1beXsgSfwVlB6tnliHrje1RE-iMiYDqKenEDxqaTse24JVCf3kC1D1SPoFOtzEk240-KdvSusvYok7UzMW-ehJxUxZK6EiTPwSBQXDisQycGYKlF8n_ndEnIc0xbwnFVGkMXv3WOeF7siL9mDd_X6H_P0zmzkwXNLuFukbeGq2"
-        }
-      ],
+
+      
       "matchOpinion": [
         {
           "question": "Who Will Win Toss...?",
-          "answer": "WI"
+          "answer": "Waiting"
         },
         {
           "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
+          "answer": "Waiting"
         },
         {
           "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
+          "answer": "Waiting"
         }
       ],
       "preview": "success",
