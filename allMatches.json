@@ -25,20 +25,36 @@
         }
       ],
 
-
-      
+"headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
       "premiumTeam": [
         {
           "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgmBV9M9FNpETUNdarZXlkiSLrmPqSdF2CKUBfFeI7i8E5ZO5k2WHDjm5jx0aksBy5cFwA33Ckx9hN0gUovTvIUc81JZ5yr2RzQ9-bkIn7CwMcqKti7zDJ2Q4TeuqhNrZhVuP2ohwP3N5ia8KIPHVWKeYAQaEMUZYjUML55dsUC0DXX1LJzVkTxsfSPqNEY"
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
         },
         {
           "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjDi81D1IJ-b7MyV2dH2TqKud5DymcAqiDQtWhhnZddHfAQNopZn3O5gI4LR3ZmAA8Qf10WVC710_jdKyTyE4gC2ngJEPWvkn8lt5GzH3gaMPITIXXAG0Cppe1lR7kjcbc8ONIR9QNIKpDlMq_7sstSKyLDdt84NEUiHlAcLGKSfXGZ1nsRLT8uxbuTiQau"
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
         },
         {
           "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhV6FYCsT12jFQS9-RkhSTslSYGngoeYXF8378w_Lk29Da-t3bnq1qKcVqNlmXmjv5hHWm9jEbaeuEG0li-Nphh7ohzDN0ygNLWgJsy6jGUSvBOgHRAx-gjalc-67U9lCD-9bxJQQsDLZOQjIh6-DleIApQFn4d00jlL0HQzMaSILgozeUetTozy5lUI78V"
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
         }
       ],
 
