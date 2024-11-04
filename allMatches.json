@@ -159,5 +159,643 @@
       "teamScreenShorts": ""
     }
 
+,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+
+
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+
+
+    ,{
+      "id": "worldCup6",
+      "matchNumber": "T20 WORLD CUP 6 OF 55",
+      "name": "UPCOMMING",
+      "date": "01 JAN 2025",
+      "dateTimeGMT": "08:00 PM",
+      "time": "08:00 PM",
+      "venue": "New Delhi",
+      "status": "upcoming",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        },
+        {
+          "code": "DEMO",
+          "img": "data:image/png;base64,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",
+          "name": "DEMO"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SCO"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "330-350 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
   ]
+
 }
