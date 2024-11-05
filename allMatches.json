@@ -72,7 +72,7 @@
         }
       ],
       "preview": "na",
-      "teamPreviewHTML": "<p></p><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both;">&lt;script&gt; app="www.cricwaves.com"; mo="1"; nt="n"; wi ="0"; co ="2"; ad="1"; &lt;/script&gt;</div><div class="separator" style="clear: both;">&lt;script type="text/javascript" src="//www.cricwaves.com/cricket/widgets/script/scoreWidgets.js?v=0.111"&gt;&lt;/script&gt;</div><div><br /></div></div>",
+      "teamPreviewHTML": "",
       "teamScreenShorts": ""
     }
 
