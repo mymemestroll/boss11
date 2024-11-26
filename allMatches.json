@@ -1,394 +1,67 @@
 {
-  "allMatches": [
-  
-   {
-      "id": "WBBL14",
-      "matchNumber": "T20 14 OF 43",
-      "name": "Women's Big Bash League",
-      "date": "05 NOV 2024",
-      "dateTimeGMT": "02:40 PM",
-      "time": "02:40 PM",
-      "venue": "WACA Ground",
-      "status": "upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "PS-W",
-          "img": "data:image/png;base64,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",
-          "name": "PS-W"
-        },
-        {
-          "code": "BH-W",
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Tn01_01XZZzrlDQtgwBoE0D1enYah86V7Q&s",
-          "name": "BH-W"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGd5iiVkgjiDCq0JwaN_s8Ug1ajwqF_iK-0FECKptu6DguVpYd32YWNixQfdiA4775lcEOTuULnLvJtzBe35c3gh7BwAqctGW6LHrjB5lCJeJlA8j8WyZB7XN11AuQRfVOxzemk7tDw-P6sG5kg_3nBIpZ5KDekpuaFRlFt-av2xd8zlyKARGaG-Qw8u5Z/s320/WhatsApp%20Image%202024-11-05%20at%2011.02.42%20AM%20(1).jpeg"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhObfmNhS1JYfFOMG_z1tPtXkSqalBc6iHCytuh1wttzJ7wAVc6PzzXVM3pJ96wmDtWe1k9tDmwAH-ee3JylYM-HJIGNO0Oc9_PKIPd4_tDuOQnRhzjR-orojX1Bt9ZpJcvM67ZbONJzDzGPkLTCCiGG4VYt6SwqYEYsWEMhgAzplA1g6lF-pbzDqTZWNdi/s1599/WhatsApp%20Image%202024-11-05%20at%2011.02.42%20AM.jpeg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-mHc0TyLqziBClHOUJ-u0jv2W_bu70_tSQtLTm7j36TjL-vHsmqUI4UQDS8aOIMcVQJLgUp8jy5W8pNxDjbpc_qWBv_pp4gPUOtJvzsoBe-FQgzJ3OvhIUvz0QvFhcNm3zG9ANUMyEzm8fWHAsT06FMdGtpJl-n_PHAMG4uhgGU47zi_CZFqB-dczVzs/s320/WhatsApp%20Image%202024-11-05%20at%2011.02.43%20AM%20(1).jpeg"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUEVqzZy4XSmLO3vNhUXkspSp7SxugiVBJdKunwu2yQEt8vV18VtpzsOUHXdSpalYoFa2nmRHTEQG5BS6COKQmRpHIhBG7VhPLRbbOZOucNKjU7MH1W1oLbAHqGxlRPN1DyV7iP173j1Kr8jWAn6hnwJn_OHogvjHtpQm1G8BJiM7s6aC8_OQ4eaPkPRwL/s320/WhatsApp%20Image%202024-11-05%20at%2011.02.43%20AM.jpeg"
-        },
-        {
-          "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZshtUplazivOsVB-ZqIlRH0B7CVSxMzwkPUa6sL2mMTmVoTXpuJnJUE0_vqNLjWQPSGWKTBelwzz1Y9IuoHR1gb-Zf_S4uFmLxBS_XjpHt08ntiLDE19425OXpoBF_R5tXRj1yFi9cUtJm8SbedN5I11E-7Az1yPs5DFS5XlVyBU4KTAnBGKqrlM-bCk_/s320/WhatsApp%20Image%202024-11-05%20at%2011.02.42%20AM%20(2).jpeg"
-        }
-      ],
-      "smallTeam": [
-   
-         {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBqQLdo07O4Cpuzq978qycdA8wTxrHwrrN6NXrs_1WH5qHoeivsaPBPYYV9dqwM5pYVX94WvSIlrjwyV3dbWawJs9x3ww1r8PIqhGkjbyEkI2taiBgmrHrmJHd4hZwidyeDLWvSogs_xnGIPbyOceZn7eqamPAvUADfK0XXb63AWMZ1Vp3xgReq4VXvOv-/s320/WhatsApp%20Image%202024-11-05%20at%2011.02.41%20AM.jpeg"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SCO"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "",
-      "teamScreenShorts": ""
-    }
+ "items": [
+{
+     "title":"Prithvi Shaw, David Warner or Shardul Thakur, Here's list of top unsold players from IPL Auction!",
+     "url":"https://youtu.be/C7EdGYxspVM",
+     "thumbnailUrl":"https://img.youtube.com/vi/C7EdGYxspVM/maxresdefault.jpg",
+     "type":"external",
+     "description":"Prithvi Shaw, David Warner or Shardul Thakur, Here's list of top unsold players from IPL Auction!"
+    },
 
-,{
-      "id": "WBBL15",
-      "matchNumber": "T20 15 OF 43",
-      "name": "Women's Big Bash League",
-      "date": "06 NOV 2024",
-      "dateTimeGMT": "12:40 PM",
-      "time": "12:40 PM",
-      "venue": "Ninja Stadium",
-      "status": "upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "HB-W",
-          "img": "data:image/jpeg;base64,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",
-          "name": "HB-W"
-        },
-        {
-          "code": "SS-W",
-          "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sydney_Sixers_logo.svg/1200px-Sydney_Sixers_logo.svg.png",
-          "name": "SS-W"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6JQecVlZlzqEK8WtWPSS3YlDzYjUMB1GlP0LWRW-1NYUJXt06umBCj-glAQoM54ST-salbXDpfy-ug3SqyvzUQRev9l9ckxSTR1JOctUsMpIsRC56L7eARMODCznBVAx7yi0GHuMqL7qS95N_qYxDGrWuKNHAfhGnpt4_vQQEjPKebb_ge2I15H5aA0Ds/s16000/WhatsApp%20Image%202024-11-05%20at%201.04.42%20PM%20(1).jpeg"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8qH0j2VLiNDLVzx6r_5IgnrWBBl9osLkTYWGII2nD611DNsKvmQtIQUJMAlUEmijJiP8suLO5XvWKnB6CnD_Dyx89YpZNEzyndHhiLb7_-hOquVn5xhHP3ocRxq7GmMjKjC7YG5GlNsc06uDz1zCDYE2tN0J30tfnwO1Hwr5ikHb4xRlpjRYB7S6B975K/s16000/WhatsApp%20Image%202024-11-05%20at%201.04.42%20PM.jpeg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUyv-uX3UunarsxKdl8BbMBIE1tZl1pN2adXDt7-k0EMGvQy8HH9qNIbIwTBt-S5IOtSDc2fgxI4fV-RmG6GXW66WLP-0AnwAY0ODSL_ZHVS5MqDXNIQQDlcsdny2WAdcG0SxEbmujNkFR6TeS8zgTGl5FZuLL-w24Tto1JcM0M8zMH5wAGw11EHa8rJvs/s16000/WhatsApp%20Image%202024-11-05%20at%201.04.41%20PM%20(2).jpeg"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBl3dQn9wNHS-cUboAGGIIFfdN0Cr2eJDAZZyf5SED5aOfh8cU_g0b9MBmwlmihZsSJ1O30CMZr4IS3CzXOHBolBYd33rwe1CW459OCKaOBiq9I-2uKdPaijOYJPTukBWNYcDbEyj-j9gU9O6VX-UwvbAqfpb3_p3P1rFOT2BFwqgV-Cygr62aDDYJ7AMP/s16000/WhatsApp%20Image%202024-11-05%20at%201.04.41%20PM%20(1).jpeg"
-        },
-        {
-          "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi-HIiCJebk0ggPkHXcO4QrkeT31Iz1Ln_8xJoiga9sBPhbHC4bA_70V58e1wilgbSbRXxO85LwaOnWsNVPwcBcInw9BvUYdTtB3GU5nqVMNQ_C3Xu2JCayLIqEnEkPYY62otDL4A-epDiN-FQkByMzT5AZDtiWjSX68cOcsS3yWDjzTRmNp5R3EoaD9ZS/s16000/WhatsApp%20Image%202024-11-05%20at%201.04.41%20PM.jpeg"
-        }
-      ],
-       
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SCO"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,{
-      "id": "ODI1",
-      "matchNumber": "ODI 1 OF 3",
-      "name": "Afghanistan And Bangladesh Tour Of UAE",
-      "date": "06 NOV 2024",
-      "dateTimeGMT": "03:30 PM",
-      "time": "03:30 PM",
-      "venue": "Sharjah Cricket Stadium",
-      "status": "upcoming",
-      "matchType": "ODI",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "AFG",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
-          "name": "AFG"
-        },
-        {
-          "code": "BAN",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
-          "name": "BAN"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiII4zvbDoAomiNkFec5we-fP5gCLK5Nxj3pMat-dHSDn2HalvgIN8IYFB1W2EyTfNGsjBZ-jsIrfBmHy4kyT4FANtLFLng2aGUBqIQufwVuZmrMHVXvbLQXr3sl9dlKuERWmWB-m4djSydkCpDN2KOJdB8rQg9sH5NnAAQPYy3WY4ul1_ffG1CChyphenhyphenQ5OXV/s1600/WhatsApp%20Image%202024-11-05%20at%205.02.10%20PM.jpeg"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1WZm2izf5wmuQsZGRfLCtHLmhSxUNA07plZWAO0UT-qqmbnO7jd7RJCTVtAwk2eg8ClzJBXaxeL-lv2_La_Zy9xgW5DhlUP4pZlJCE7kFkRX1O37Otdi1advbpqPawLRSKwB0fxqDoUsH0iXzxQwn37Z7VaRiMZ78AFL2saxdBgsAYpVZvk9IeNHzZDbA/s16000/WhatsApp%20Image%202024-11-05%20at%205.02.09%20PM.jpeg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-         {
-          "title": "SMALL - PRE TOSS TEAM 2",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SCO"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,{
-      "id": "ODI3",
-      "matchNumber": "ODI 3 OF 3",
-      "name": "England Tour Of West Indies",
-      "date": "06 NOV 2024",
-      "dateTimeGMT": "11:30 PM",
-      "time": "11:30 PM",
-      "venue": "Kensington Oval Barbados",
-      "status": "upcoming",
-      "matchType": "ODI",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "WI",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
-          "name": "WI"
-        },
-        {
-          "code": "ENG",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-          "name": "ENG"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-         {
-          "title": "SMALL - PRE TOSS TEAM 2",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SCO"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,{
-      "id": "t20",
-      "matchNumber": "T20 1 OF 4",
-      "name": "India In South Africa",
-      "date": "08 NOV 2024",
-      "dateTimeGMT": "08:30 PM",
-      "time": "08:30 PM",
-      "venue": "Kingsmead",
-      "status": "upcoming",
-      "matchType": "T20",
-      "preTossTeam": "na",
-      "teamDetails": [
-        {
-          "code": "SA",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-          "name": "SA"
-        },
-        {
-          "code": "IND",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-          "name": "IND"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "megaTeam": [
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "premiumTeam": [
-        {
-          "title": "Mega League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "H2H League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-        {
-          "title": "Small League Balance - Pre Toss Team",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "smallTeam": [
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        },
-         {
-          "title": "SMALL - PRE TOSS TEAM 2",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "SCO"
-        },
-        {
-          "question": "What Win Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "330-350 Runs"
-        }
-      ],
-      "preview": "na",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
+  {
+     "title":"Prithvi Shaw goes unsold in Mega Auction ! From Sachin to Kambli, What a Downfall",
+     "url":"https://youtu.be/FaKU2NvF5qE",
+     "thumbnailUrl":"https://img.youtube.com/vi/FaKU2NvF5qE/maxresdefault.jpg",
+     "type":"external",
+     "description":"Prithvi Shaw goes unsold in Mega Auction ! From Sachin to Kambli, What a Downfall"
+    },
+
+{
+     "title":"Akash Ambani hugged RCB Management when RCB denied RTM for Will Jacks",
+     "url":"https://youtu.be/a_XOuloW9Tc",
+     "thumbnailUrl":"https://img.youtube.com/vi/a_XOuloW9Tc/maxresdefault.jpg",
+     "type":"external",
+     "description":"Akash Ambani hugged RCB Management when RCB denied RTM for Will Jacks"
+    },
+
+{
+     "title":"Who is Priyansh Arya? जिसे Punjab Kings ने13 गुना कीमत पर खरीदा!",
+     "url":"https://youtu.be/pWcjFB7ADfk",
+     "thumbnailUrl":"https://img.youtube.com/vi/pWcjFB7ADfk/maxresdefault.jpg",
+     "type":"external",
+     "description":"Who is Priyansh Arya? जिसे Punjab Kings ने13 गुना कीमत पर खरीदा!"
+    },
+
+    {
+     "title":"Who is Vaibhav Suryavanshi, A 13-year-old from Bihar sold to RR for 1.10 CR",
+     "url":"https://youtu.be/8uADQ28axLA",
+     "thumbnailUrl":"https://img.youtube.com/vi/8uADQ28axLA/maxresdefault.jpg",
+     "type":"external",
+     "description":"Who is Vaibhav Suryavanshi, A 13-year-old from Bihar sold to RR for 1.10 CR"
+    },
+
+    {
+     "title":"Bhuvneshwar Kumar sold to RCB for 10.75 CR ! 14 साल बाद Bhuvi की RCB में घर वापसी !",
+     "url":"https://youtu.be/fW8YZ58Yf5A",
+     "thumbnailUrl":"https://img.youtube.com/vi/fW8YZ58Yf5A/maxresdefault.jpg",
+     "type":"external",
+     "description":"Bhuvneshwar Kumar sold to RCB for 10.75 CR ! 14 साल बाद Bhuvi की RCB में घर वापसी !"
+    },
+
+    {
+     "title":"Who is Allah Ghazanfar, A 18 Year Old Spinner Who Went For Rs 4.8 Cr To MI In IPL 2025",
+     "url":"https://youtu.be/QbW4zusME5M",
+     "thumbnailUrl":"https://img.youtube.com/vi/QbW4zusME5M/maxresdefault.jpg",
+     "type":"external",
+     "description":"Who is Allah Ghazanfar, A 18 Year Old Spinner Who Went For Rs 4.8 Cr To MI In IPL 2025"
+    },
+
+    {
+     "title":"Jasprit Bumrah becomes the only captain to beat Australia in Optus Stadium!",
+     "url":"https://youtu.be/VgaTmn6zfi8",
+     "thumbnailUrl":"https://img.youtube.com/vi/VgaTmn6zfi8/maxresdefault.jpg",
+     "type":"external",
+     "description":"Jasprit Bumrah becomes the only captain to beat Australia in Optus Stadium!"
+    },
   ]
-
 }
