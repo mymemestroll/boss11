@@ -1,67 +1,94 @@
-{
- "items": [
-{
-     "title":"Prithvi Shaw, David Warner or Shardul Thakur, Here's list of top unsold players from IPL Auction!",
-     "url":"https://youtu.be/C7EdGYxspVM",
-     "thumbnailUrl":"https://img.youtube.com/vi/C7EdGYxspVM/maxresdefault.jpg",
-     "type":"external",
-     "description":"Prithvi Shaw, David Warner or Shardul Thakur, Here's list of top unsold players from IPL Auction!"
-    },
+    <<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title></title>
+    </head>
+    <body>
+    
 
-  {
-     "title":"Prithvi Shaw goes unsold in Mega Auction ! From Sachin to Kambli, What a Downfall",
-     "url":"https://youtu.be/FaKU2NvF5qE",
-     "thumbnailUrl":"https://img.youtube.com/vi/FaKU2NvF5qE/maxresdefault.jpg",
-     "type":"external",
-     "description":"Prithvi Shaw goes unsold in Mega Auction ! From Sachin to Kambli, What a Downfall"
-    },
-
-{
-     "title":"Akash Ambani hugged RCB Management when RCB denied RTM for Will Jacks",
-     "url":"https://youtu.be/a_XOuloW9Tc",
-     "thumbnailUrl":"https://img.youtube.com/vi/a_XOuloW9Tc/maxresdefault.jpg",
-     "type":"external",
-     "description":"Akash Ambani hugged RCB Management when RCB denied RTM for Will Jacks"
-    },
-
-{
-     "title":"Who is Priyansh Arya? जिसे Punjab Kings ने13 गुना कीमत पर खरीदा!",
-     "url":"https://youtu.be/pWcjFB7ADfk",
-     "thumbnailUrl":"https://img.youtube.com/vi/pWcjFB7ADfk/maxresdefault.jpg",
-     "type":"external",
-     "description":"Who is Priyansh Arya? जिसे Punjab Kings ने13 गुना कीमत पर खरीदा!"
-    },
-
-    {
-     "title":"Who is Vaibhav Suryavanshi, A 13-year-old from Bihar sold to RR for 1.10 CR",
-     "url":"https://youtu.be/8uADQ28axLA",
-     "thumbnailUrl":"https://img.youtube.com/vi/8uADQ28axLA/maxresdefault.jpg",
-     "type":"external",
-     "description":"Who is Vaibhav Suryavanshi, A 13-year-old from Bihar sold to RR for 1.10 CR"
-    },
-
-    {
-     "title":"Bhuvneshwar Kumar sold to RCB for 10.75 CR ! 14 साल बाद Bhuvi की RCB में घर वापसी !",
-     "url":"https://youtu.be/fW8YZ58Yf5A",
-     "thumbnailUrl":"https://img.youtube.com/vi/fW8YZ58Yf5A/maxresdefault.jpg",
-     "type":"external",
-     "description":"Bhuvneshwar Kumar sold to RCB for 10.75 CR ! 14 साल बाद Bhuvi की RCB में घर वापसी !"
-    },
-
-    {
-     "title":"Who is Allah Ghazanfar, A 18 Year Old Spinner Who Went For Rs 4.8 Cr To MI In IPL 2025",
-     "url":"https://youtu.be/QbW4zusME5M",
-     "thumbnailUrl":"https://img.youtube.com/vi/QbW4zusME5M/maxresdefault.jpg",
-     "type":"external",
-     "description":"Who is Allah Ghazanfar, A 18 Year Old Spinner Who Went For Rs 4.8 Cr To MI In IPL 2025"
-    },
-
-    {
-     "title":"Jasprit Bumrah becomes the only captain to beat Australia in Optus Stadium!",
-     "url":"https://youtu.be/VgaTmn6zfi8",
-     "thumbnailUrl":"https://img.youtube.com/vi/VgaTmn6zfi8/maxresdefault.jpg",
-     "type":"external",
-     "description":"Jasprit Bumrah becomes the only captain to beat Australia in Optus Stadium!"
+    
+    ,{
+      "id": "worldCup1",
+      "matchNumber": "T20 WORLD CUP 1 OF 55",
+      "name": "WORLD CUP 2024 // USA vs CAN",
+      "date": "02 JUNE 2024",
+      "dateTimeGMT": "06:00 AM",
+      "time": "06:00 AM",
+      "venue": "Grand Prairie Stadium",
+      "status": "Tomorrow",
+      "matchType": "T20",
+      "preTossTeam": "na",
+      "teamDetails": [
+        {
+          "code": "USA",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
+          "name": "USA"
+        },
+        {
+          "code": "CAN",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png",
+          "name": "CAN"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "megaTeam": [
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "premiumTeam": [
+        {
+          "title": "Mega League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "H2H League Balance - Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+        {
+          "title": "Small League Balance- Pre Toss Team",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "smallTeam": [
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        },
+         {
+          "title": "SMALL - PRE TOSS TEAM 2",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGjtHaWHjzSKhNtMzFjiYEJQqAtbzR3d_LiqkyoXfEbOG2HEMcfIaSO2sH3ONM2bRQjGt3PrnJTBwFNQqAlMZbb8-0K2GGAU_ZiHAUUdaABmHEa50AO2hUIQOoL6KM3rpLk3Bc8xwroBC19C_eQBRuzxJ-OElqIpeWhHn0M4g_8AD6amd3Y2fh126rc25/w334-h400/Stay%20tuned%20boss11.jpg"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "USA"
+        },
+        {
+          "question": "What Win Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "300-325 Runs"
+        }
+      ],
+      "preview": "na",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
     }
-  ]
-}
+    
+
+    </body>
+    </html>
