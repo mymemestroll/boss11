@@ -10,7 +10,7 @@
       "venue": "Melbourne Cricket Ground ",
       "status": "LIVE",
       "matchType": "T20",
-      "preTossTeam": "YES",
+      "preTossTeam": "yes",
       "teamDetails": [
         {
           "code": "STA",
@@ -97,7 +97,7 @@
           "answer": "330-350 Runs"
         }
       ],
-      "preview": "na",
+      "preview": "yes",
       "teamPreviewHTML": "<h1>
     Write, edit and run HTML, CSS and JavaScript code online.
   </h1>",
@@ -115,7 +115,7 @@
       "venue": "Basin Reserve ",
       "status": "UPCOMING",
       "matchType": "ODI",
-      "preTossTeam": "na",
+      "preTossTeam": "yes",
       "teamDetails": [
         {
           "code": "NZ",
