@@ -10,7 +10,7 @@
       "venue": "Melbourne Cricket Ground ",
       "status": "LIVE",
       "matchType": "T20",
-      "preTossTeam": "yes",
+      "preTossTeam": "Yes",
       "teamDetails": [
         {
           "code": "STA",
