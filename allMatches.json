@@ -3,6 +3,117 @@
 
 
 
+
+    {
+"id": "01125532553d",
+      "matchNumber": "FINAL T20 34 OF 34",
+      "name": "MI CAPE TOWN vs SUNRISERS EASTERN CAPE",
+      "date": "08 FEB 2025",
+      "dateTimeGMT": "09:00 PM",
+      "time": "09:00 PM ",
+      "venue": "DP World Wanderers Stadium",
+      "matchType": "T20",
+      "status": "Upcomming",
+      "finalTeam": "NA",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "MI CAPE TOWN",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/F72d4hgNZWUk57uEei0DUw_96x96.png",
+          "name": "MI CAPE TOWN"
+        },
+        {
+          "code": "SUNRISERS EASTERN CAPE",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/3hB19iK7pzzcY40Sab6pJw_96x96.png",
+          "name": "SUNRISERS EASTERN CAPE"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": " "
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjczWQ8zDwdRtCn3Im41iZoA4nDbcyiGKM2WSourWE7aP-6jZootccCMRWZk1pVe4kmc07AG_z9R8adYhU3jVvtu1U5JSWwho5lQW5kcF769RlB6211XjoT5NqUJMNxm5iZGvhR1JvjRPcWul5G9oWjN8NXFeSg2Gj6Wekr6xpQDmkvpSbflRu0_YmckA8"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgrfLZwHC4UYRtqPe6Tr7zufZo0QAb34YDAxfgX5m4tZ-oyz4EiXtWwx0vDnClG14IYmQTFM3WZ1pFQ5XA6l6Yqk9E-87GisrGPCvS0dkQMhL-f67xigdvn3R3dYpfPhInJx8VhyAhQ8iYx9EkNpS_raS3XlgG-caN_kSkZFWZtZD1CysgZQWdHAcbQO9A"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": " "
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": " "
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": " "
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjlQlf0XDjocRw54WqyWffDeD80h4_jXWvgii8IH7xKjRpAErHwPMqfB7dJLc9FNNRrajpMQb4GZf39QeslUJJ7wQP-nPvIe-1A77wBaP2Unh-ra0nkYtc1zrZ2VBd2rQztM7KNtsMgk9OuahZ-22gV1Ah9ARMyE5PHo8CSLgmorgNjJE0Tc9WdaO5IAWY"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgfJ2BiYMY07fzTc2kJwjUCCOP9qqPqwkuC67TrjSUgPGyFyXw273rv_JbiqrBYfeEUDX7PAimy1Qt8t6fnihbURh9om9-rmz9TszNyw29f2IqdjPLwvifB6wOMy0V_Fa6jSo05jvfCGHYmYdfXvig5GFCVC71UzmyPKmtCL8Czz2aNjmRxTIXugrR7wyc"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhYsxuXwOUL3P7VNk7TCpNaxqZ9HTUnKOV6HlmQ0WYWCQ8PxBX0YnbeBV4kXoiT4IW-OQ-ZlCQ1OVtViOmnvaV21wzo56-NzRIlchLndIEHgoUaiayWDkDqDDjJJe-X5Pyww7rDAxsSzfYGwY8FleSUexA7jCwnTJ1g5X6jymHoGnttvwiIPypscVBnkJo"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgyiTSsmS3R87iFqRr7IVyualjkxvax3K01NNJUlqf0FiMayvVtkxZj98lZxDD7b1PtxF08SEIFZGdy5stk587fZX3Wr7ZG_jl4ROUhFgvFF_puMkt9GaBISnzb-aHwPHBLnZCXpMTWCa7vUUE9SbQRn6Q4qyEYMMdw1FHbUCfVo3t1rKNN3ng3rwfC__k"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "SUNRISERS EASTERN CAPE"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "180-200 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    
+    ,
+
+
+
+    
+
     {
 "id": "01125532553d",
       "matchNumber": "ODI 3 OF 3",
