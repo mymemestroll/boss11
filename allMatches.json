@@ -6,14 +6,14 @@
 {
     "id": "01125532553d",
       "matchNumber": "ODI 2 OF 3",
-      "name": " India vs England ",
+      "name": "India vs England",
       "date": "09 FEB 2025",
       "dateTimeGMT": "01:30 PM",
-      "time": "01:30 PM ",
+      "time": "01:30 PM",
       "venue": "Barabati Stadium",
       "matchType": "ODI",
-      "status": "Today",
-      "finalTeam": "NA",
+      "status": "Lineups Out",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
@@ -89,7 +89,7 @@
       "matchOpinion": [
         {
           "question": "Who Will Win Toss...?",
-          "answer": "INDIA "
+          "answer": "England"
         },
         {
           "question": "What will Toss Winning Team Opt...?",
