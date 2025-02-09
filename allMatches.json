@@ -111,6 +111,117 @@
 
 
 
+
+{
+"id": "01125532553d",
+      "matchNumber": "ODI 2 of 4",
+      "name": "NZ vs SA",
+      "date": "10 FEB 2025",
+      "dateTimeGMT": "10:00 AM",
+      "time": "10:00 PM ",
+      "venue": "Gaddafi Stadium",
+      "matchType": "ODI",
+      "status": "Upcomming",
+      "finalTeam": "NA",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "New Zealand",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/vLzv_L6wZJ4ygGlIJLUc1A_96x96.png",
+          "name": "New Zealand"
+        },
+        {
+          "code": "South Africa",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+          "name": "South Africa "
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": " "
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhVqni67RAJIwfFYL7ZMPzI7YeFba1rzBudI2yy31lxvPgZ36WBltLnOefhVoPBKhvU3KSYj8EEo8Dbi_ZuzRb44KIdDyAX8ifWS6zV3-740Ao3Vvn1MeppeEGN5hwsG6dClxS5SRYjbuOOQ1J3NeGrwo0LsLBd1fy38BeOwPnzKl39EVlegVT-CgPpx4g"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhzyb6YehnYxxVCOMeDxf0NR_6xLDHqV6fTz8tI_zYCJ4N0NvG0ISZIqJ2gHhgA6kAN8c5EU3pRNJYsLyxMP7pr1s1pAWYKd22VtJengisz9E2uwhfGlHkSI9KesrUBI8Zm4ifChEegnv1e7BNP4FPGNG0l9clrzqcg210yYPDcyKLINxpwJvLKbfAP3Ko"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": " "
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": " "
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEix8d82D0CfCDjMjpHQLN3yPDReqWqgg7czZuogkjZIf9UIotI__wiAkXmMylDorZyPkWwruWWSXQN-tL1ZTneuMF-sa7JaxoXRvTndufmAnWaz5q3KjRUgyInfSUtHOBOfLH1z7FJ92NeoQ4KFeJr8QWxIJ-xjhb9o8DgVa2xzAZ5EiCqKag-vPQ-NxAE"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEix8d82D0CfCDjMjpHQLN3yPDReqWqgg7czZuogkjZIf9UIotI__wiAkXmMylDorZyPkWwruWWSXQN-tL1ZTneuMF-sa7JaxoXRvTndufmAnWaz5q3KjRUgyInfSUtHOBOfLH1z7FJ92NeoQ4KFeJr8QWxIJ-xjhb9o8DgVa2xzAZ5EiCqKag-vPQ-NxAE"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiKo0npRVsUeQM4MNvr3WE_5CgB7UyDPVu_Rl_CrEtPBJ61TeynXId2HfqDQR2isHP5zI_mH2RFvCqnVT0sbjIntrZuoZn08KQ-8lzjsEchXTtLTk3m6c6Lc9RvG2B5BCpGF5VxUdVzftIma_7fLehJsUWxUD9lxrLsGudDLj3E-N378NB3wSbb3BR6nkI"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjDzcyXUHX4AGa8id8PW68m2wGEq5eIoqtGIzIy4h3b5nvn5fW1xfRpr3zjGxvTpol8gw6_jGz-_D7E_Gm3aCe-qWFTBMK-WAB0N6KPTl1nHStnIbrykRlP9zmjfi3OUemeWu_OX2YWFKMkPeNcDwKfFthr7cRdkE2ECn_VDR4L3uSpsfrBG6_VEmWndsQ"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "South Africa"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    
+    ,
+
+
+
+    
+
 {
     "id": "01125532553d",
       "matchNumber": "ODI 3 OF 3",
