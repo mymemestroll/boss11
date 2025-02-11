@@ -322,6 +322,8 @@
     }
     
     ,
+
+
     
 {
 "id": "01125532553d",
@@ -329,7 +331,7 @@
       "name": "Gujrat-W vs Bangalore-W",
       "date": "14 FEB 2025",	
       "dateTimeGMT": "07:30 PM",
-      "time": "07:30 PM ",
+      "time": "07:30 PM",
       "venue": "Kotambi Stadium",
       "matchType": "T20",
       "status": "Upcomming",
@@ -429,6 +431,9 @@
     
     ,
     
+
+    }
+
    ]
 }
 
