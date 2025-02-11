@@ -322,9 +322,113 @@
     }
     
     ,
-    
-    }
 
-   ]
+
+
+{
+"id": "01125532553d",
+      "matchNumber": "WPL 1 OF 22",
+      "name": "Gujrat-W vs Bangalore-W",
+      "date": "14 FEB 2025",	
+      "dateTimeGMT": "07:30 PM",
+      "time": "07:30 PM ",
+      "venue": "Kotambi Stadium",
+      "matchType": "T20",
+      "status": "Upcomming",
+      "finalTeam": "NA",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Gujrat Giants-W",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/o2jvxJHS_lYIdDUUUcp3OQ_96x96.png",
+          "name": "Gujrat Giants-W"
+        },
+        {
+          "code": "Royal Challengers Bangalore-W",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/xIQheSbaSnKIp0OFLukRtA_96x96.png",
+          "name": "Royal Challengers Bangalore-W"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": " "
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgE_emNW6mJL1Gob0sxJ2Hk5QisKY3JDmsyMPDobVSa2YcgOfzmBzIfJS6UDZv8LCTidvcau2tf_8RWtzIOTYvO34qYXaZMcdp1GXsjqUWWVcTtPV5qZ2TkIre0Wn-1_2jmDOY-jg8CncvNWULDqsF4Z5CuhdMtiyYOlul79-XvZgI_0876bKIqEcGu4XQ"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh6uF9HZuYKO_9Exg0kP_n9-QRujhtVPZV2DUykSYp-6gcR9KtiDllIbrBmeKXR1ymRxLOiUBhoKxckXTaVmHoPDuu0X9KiCo79_1Dxgvmf33mU0HEeXTrXKPxnwmCnuHDN1MwU46qJjJdlHRnM7raLTK_qx--TlOL02jfOkIrbJgNsvg5cBZWpcu0t0jk"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": " "
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": " "
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjU_SQDYUGK5dGoZk4WWqmv0in05d1GUMdFg1AP04RhwWBjEpWfMqRhQpfPlwVEcY43cIcUTx6PlH2iq_NNt6FRjA9yE0UjxwL9jT0muS1w_l4w9Bu2FKmNc7_s-KnkxIgGkxkM3QvS51TpOcyFHpMfWNslpK1Ssosd6FypLaAJFK-RSk-_51iaTJ68jg8"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhp9XfJgVutlJWoz9VEUAxV0AY3ugpOpWVdsy0aVNz3cwQ05PtuoyucmkGFP4n3T0ykYyl4aHKCKU6KoQHXj1Y07P_T1_HR0KyvbBerg_o3Ng3csMdTv6oOmjxux0tPr_sySwl_jbilWzKArzJxb6uYn5s1oe2hAuq6wWOASEoS_Xz3WGUgz9n5ksu0bs8"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhuIc5s0nPLDtJGHvan4SAiC8_GRTi8-WKx21Ws9tm8YGhJAfs5d28HY1l4hmZqPV_69J0h4Wo7rEpoDXWaOcQ5HLhdAOfTUWHmuN54XdbFpyS-IjjYOJ9dX1XNd6pseVUP77QyBlIu4ysHG5meGsQaNKdVDeXQvRkV3ItEbY_voHDc21JY94WQhGpeYqI"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": " "
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhniUCD8OtvqIU5fGhnQ17NnHje1soN1hVJnqI_GKUhjI3etmltoiEUPOAMKZEjbAfPaR4GNxzn3DdalT6bxZMZ3g6jrCrnQA94OP0X5P4u6xESMzEOIXeScAhY-hg2bcK3_MUfrQbOhhfY4OW2bYGBNccIS3VxMW1Fw-xyQm55eJlsxjCc2dYF5OIudaU"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "Royal Challengers Bangalore-W"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "130-150 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+      ,
+  ]
 }
 
