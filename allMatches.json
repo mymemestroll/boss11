@@ -328,7 +328,7 @@
 {
 "id": "01125532553d",
       "matchNumber": "WPL 1 OF 22",
-      "name": "Gujrat-W vs Bangalore-W",
+      "name": "Gujrat W vs Bangalore W",
       "date": "14 FEB 2025",	
       "dateTimeGMT": "07:30 PM",
       "time": "07:30 PM",
@@ -339,14 +339,14 @@
       "preTossTeam": "success",
       "teamDetails": [
         {
-          "code": "Gujrat Giants-W",
+          "code": "Gujrat Giants W",
           "img": "https://ssl.gstatic.com/onebox/media/sports/logos/o2jvxJHS_lYIdDUUUcp3OQ_96x96.png",
-          "name": "Gujrat Giants-W"
+          "name": "Gujrat Giants W"
         },
         {
-          "code": "Royal Challengers Bangalore-W",
+          "code": "Royal Challengers Bangalore W",
           "img": "https://ssl.gstatic.com/onebox/media/sports/logos/xIQheSbaSnKIp0OFLukRtA_96x96.png",
-          "name": "Royal Challengers Bangalore-W"
+          "name": "Royal Challengers Bangalore W"
         }
       ],
       "headTeam": [
@@ -411,7 +411,7 @@
       "matchOpinion": [
         {
           "question": "Who Will Win Toss...?",
-          "answer": "Royal Challengers Bangalore-W"
+          "answer": "Royal Challengers Bangalore W"
         },
         {
           "question": "What will Toss Winning Team Opt...?",
@@ -431,7 +431,6 @@
     
     ,
     
-
     }
 
    ]
