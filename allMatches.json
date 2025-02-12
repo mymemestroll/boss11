@@ -11,8 +11,8 @@
       "time": "10:00 AM",
       "venue": "R Premadasa International Cricket Stadium Colombo Sri Lanka",
       "matchType": "ODI",
-      "status": "Today 10 AM",
-      "finalTeam": "NA",
+      "status": "Lineups Out",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
