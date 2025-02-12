@@ -120,7 +120,7 @@
       "venue": "Narendra Modi Stadium",
       "matchType": "ODI",
       "status": "Lineups Out",
-      "finalTeam": "NA",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
