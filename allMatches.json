@@ -11,7 +11,7 @@
       "time": "09:30 AM",
       "venue": "R Premadasa International Cricket Stadium Colombo Sri Lanka",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today 10 AM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -119,7 +119,7 @@
       "time": "01:30 PM ",
       "venue": "Narendra Modi Stadium",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today 1:30 PM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -226,7 +226,7 @@
       "time": "02:30 PM",
       "venue": "National Stadium Karachi",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today 2:30 PM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
