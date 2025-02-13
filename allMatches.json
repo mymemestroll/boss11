@@ -216,6 +216,114 @@
     ,
 
     
+
+{
+"id": "01125532553d",
+      "matchNumber": "ODI 4 of 4",
+      "name": "NZ vs PAK",
+      "date": "14 FEB 2025",
+      "dateTimeGMT": "02:30 PM",
+      "time": "02:30 PM",
+      "venue": "National Stadium Karachi",
+      "matchType": "ODI",
+      "status": "Tomorrow",
+      "finalTeam": "NA",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "New Zealand",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/vLzv_L6wZJ4ygGlIJLUc1A_96x96.png",
+          "name": "New Zealand"
+        },
+        {
+          "code": "Pakistan",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+          "name": "Pakistan"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": ""
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEihX1Q4QxkBsWQoE397JXqmynPg-gaiKIvp_wf7sEdvfnTUwNfpEWIlngsMZCCjxp5qNWbxae9FgeszTw4xoc_rukJ_ci5BOrhUxjwW94tVipupQyuH_XyZyff-Tzyh8Dp-WMa0QT-9kYqMuomSB3cu-hZiY1BobW2fzhlyv1kf0_hTW1mnFpxzHnopGR0"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": ""
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjwN-Cn2jiHCYWsGz-9NSKxwulafRNSVVKRPpAuASPtqZXoStpvbyC59PGWILY0QHlTvAM-l_umxWazCgyPWjovnAU0aqGAP3PHWrej4kH9AkoydHDgPLfCBIN1hwjucl92nG7fDMhZce0n5Q-6Jff9MTTibbMV_dWwv33Bdckw-fpi1_VGlS585L50DzQ"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": ""
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi5iMG0TlaVgFWoZl4YVLm87_N4t7qHScBbcz3CuwRYzQKOfWM1DDstts4G8_bL0a_MfI3mKdJZaELO9HVWbTDI4JfCRjsq37DHBY9iBzb-sI2nZ8tL6_Ohm3dqxndKiOujCPllitje-fD9BmsUTOzhN9Ux0RtEGeYlHo5D3j6xtNr4g13GMfj9tSKpwbI"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgpJavdEds_UP1QlCZiklJLFxXTFZOm2EfDV_iuzLoNJEJzfe7Abu3V8GPGZHJ1TRQf3XR-ga-Z-MWuVsLuLYTzJbLAQoF_OkBFVzELT15KyunVQqfCMgeWnqy2UF8DVI8Kw_nn2QRzAITyNTkk4Wn6VTxuzaQYB44492o3Yn2K-f7XPV6h3laHwmPMZto"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh1kwRh8GQDyPC5MlyBV26ZZkZE9CI2j6DoROizF3WgSCO53vzYxGI8lAUjyvQuMzIaSLkEwRxUZHTII6N1cgFd4EEGvuAmyueXOdDrkOAYUraU2CxxXgeqnxDe2SFQlsHU9xKy7-wFcW9Z1M4XTrr-FijuFFPd-clsAY4A_yROtZVTXL4bTm7B4AeW8lE"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": ""
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjjpbdbm1MX-a-IaM-ToX0Qu4d-45g15hXnkzLcri1oEw4lDg_iFx2I0ZRKldbzttQxke3htmHiUhtzMMQmuWip8XS5kRlibFjhXudpIDUP3tuUYUcSwqoaVmrjj7ijui9NTwMJ5wdgxMWfz8cNbd2hjcd5czOkIDu_kN3IF06bR7vN0eKqmSD-7aw9w4c"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "New Zealand"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "280-320 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    
+    ,
+    
+    
 {
 "id": "01125532553d",
       "matchNumber": "WPL 1 OF 22",
