@@ -1,114 +1,6 @@
 {
   "allMatches": [
 
-
-{
-"id": "01125532553d",
-      "matchNumber": "ODI 3 of 4",
-      "name": "PAK vs SA",
-      "date": "12 FEB 2025",
-      "dateTimeGMT": "02:30 PM",
-      "time": "02:30 PM",
-      "venue": "National Stadium Karachi",
-      "matchType": "ODI",
-      "status": "Live",
-      "finalTeam": "success",
-      "preTossTeam": "success",
-      "teamDetails": [
-        {
-          "code": "Pakistan",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-          "name": "Pakistan"
-        },
-        {
-          "code": "South Africa",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-          "name": "South Africa "
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvChTvJYJcgmg7xexveuUrerM8cCZW-xDWPj_D769QFBnyQL_nUtsvuXEpOwphl0s1QkWqdaaaRE9VOniSQMYI1ZvU-_wqYtA7UhgPY-Sz17FK7qGkOKc9fxCBWXLDejHtwVAFqyU-dEsfP2pXcvQG5cZs8c1VLdLo8k_m7V2KhrMcXrhPe23-QILOkeA"
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj4FoC55F4IQVakCvJD4Zu_-o9LFuna8Gf3YoqN_rsyaaCstwwMg_uzvb3UDw56DxyLPEgzIq5bFSgO1PrFHzs78YSvmUlbrpVye5nfGe_bx9nVgew4NI6RC23-mqbcoqU5suCSQX5Bbr4RmT8edQuCuMlHVNjyWEWWP2AugKxACBzKW2BRkdOY_MvWXa4"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEju9iiq3sqVgp1qWlJWed2AarzluznirsJwoCtv7AOM6vt_1Sw0meppcHhWOU7_z9cvjyK7ZuceYqSoEFCARNARZ5WbpObZ4R1hCJ_ULiVuQJPiv3WGgevfYxLzp6efG_st3fgz74PNsTrN9goYPwZM8uroPTvDmZyk45hbKFETrRrCKr44cCkcT0iOKRI"
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj3lD0yygrMw3dE1dkW5LG7x_3ZBBERZMFMAHE4YFNiHMxdNnLcfY441vtaX7Xres1eYpuUAf1mDVteV4xZWCTSDWPBdMLyTKQJNpVeU7z1RyVgO2IcfRgdLB7KGwqUVFtlkYt13PEO-Kfhk_vO7Yc8PWJZ6czhMJCc6_YqIhSshFppiKlSpc55JwuprTI"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjd26YCA3iioTIIROpY4tZRsUA78bjeNfMzssG4KnkoSb6RAVixPfFIrTHHv7utb6cC9rDeqfjkNSGvtDNmZ3BXD1EDfzR6SUzRqTUCC2dtStqMVwQlHu3y7g-uAt8hmALgwZU06wfHsRIL_MoOTXBhR0GQUtcEuvN73IFTmUsIQm8x5yo8zyl2WqYlSN8"
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEilmgDOAXaBIcKeCNUsm6UsexNe22DQZRIpuziC3EO15MbUy5sbdKIvYWgLip8f-og4JY8RBi48fzN9_oB4cTfJ0d-4am3dIbTeqe1SwKHMaTlY5a1q5GGJnvZeRS1PorDrxKwiwzf95VT6V4ue2JlmgggLnVbYLfqC4AfMp13Dihzzptx5dfhMx7tWT40"
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEilmgDOAXaBIcKeCNUsm6UsexNe22DQZRIpuziC3EO15MbUy5sbdKIvYWgLip8f-og4JY8RBi48fzN9_oB4cTfJ0d-4am3dIbTeqe1SwKHMaTlY5a1q5GGJnvZeRS1PorDrxKwiwzf95VT6V4ue2JlmgggLnVbYLfqC4AfMp13Dihzzptx5dfhMx7tWT40"
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhZsIJI1QDpSeYV5RRezvFC4Dl9CVZgwTIaA5gj9Irim4_Ua-qLPIP3mGrODvN_aGaYRX0EYQWw6eJ92-x9Qj4uc__dpZ32QqXM1JfXFXsi6E5tMG-KGNeRA6V4k9R-pcuA8oOc5Ki1pytwJX0xAgoSBuNaSJIDcV0P-SIES8KE_GVuNgbie6AcWFNv74s"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgKFtf3PSvBT7UxcketPWTog1SxkyadcGjmKnTM1RwOiH8hcPEm8Kf1z4X1d3hALfC68vJcWqr5E9IcdSbbGP5qdG-e23s52aLF3zIjZ11qwN6KX1bokGvnjtuCXnvWGQRqVBa2O1AmB19yHcO3SPhTztYUUGVN8lk7mUmbnhOaMx6tMG36CjF1O32xrmg"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjgY9AQqjVWL-jXP-Js8FtXu2LiaZBv0iipbZaCkRKqUAClHOoSpcZPPdVXDYFM-vBD9NrVCFPR5HnCGv_PES5Ib6axV8k7yXpWaTIX1UGzmal9myPpVmxeSoJKmLXa3nvAL3t96a6muVhfFxS9i98Jep5Y4hszw4rdnYPEbIDLIQGk1sJTSJbQKf0AVpo"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi8I3KI0_NKd1-giviU4CYySsc7XH8EoHxDM163v4KDWATN5HNFYnS3ZAR7hEACMH6iS42jIUT7B42bXKrb4vFJPPt6J69pShjSsTmC9MG1z3Zrp9FGzzQ56KmCcrHa34VepJg3GOSzE8lp1z6OYfcKZlwSbWtea2GPlZd1jV881Uq5Y8hNCGSlYUIo7ck"
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj-Fv7ZSS8lQ0QrBp2VnbCY5pifUdt-KtF6py3Eiwz7J3MnVePyAn3QChZBaWWIl3nTpF0JARvj9Zr5SoWOFSaJEt68rT2ImNNfwHZUNlH81D8LtYQPB-LPRdbpcVJ3uo3YVobWWTvhzCeZpJfXF8u7WYWCppq5GV9tG7v3aG9qCDI2W6rqt7davIqYx54"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "South Africa"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Bowling First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "250-300 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    
-    ,
-
-
     
 {
 "id": "01125532553d",
@@ -732,6 +624,112 @@
         {
           "question": "What will Toss Winning Team Opt...?",
           "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+,
+
+
+    {
+"id": "01125532553d",
+      "matchNumber": "ODI 3 of 4",
+      "name": "PAK vs SA",
+      "date": "12 FEB 2025",
+      "dateTimeGMT": "02:30 PM",
+      "time": "02:30 PM",
+      "venue": "National Stadium Karachi",
+      "matchType": "ODI",
+      "status": "Result",
+      "finalTeam": "success",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Pakistan",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+          "name": "Pakistan"
+        },
+        {
+          "code": "South Africa",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+          "name": "South Africa "
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvChTvJYJcgmg7xexveuUrerM8cCZW-xDWPj_D769QFBnyQL_nUtsvuXEpOwphl0s1QkWqdaaaRE9VOniSQMYI1ZvU-_wqYtA7UhgPY-Sz17FK7qGkOKc9fxCBWXLDejHtwVAFqyU-dEsfP2pXcvQG5cZs8c1VLdLo8k_m7V2KhrMcXrhPe23-QILOkeA"
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj4FoC55F4IQVakCvJD4Zu_-o9LFuna8Gf3YoqN_rsyaaCstwwMg_uzvb3UDw56DxyLPEgzIq5bFSgO1PrFHzs78YSvmUlbrpVye5nfGe_bx9nVgew4NI6RC23-mqbcoqU5suCSQX5Bbr4RmT8edQuCuMlHVNjyWEWWP2AugKxACBzKW2BRkdOY_MvWXa4"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEju9iiq3sqVgp1qWlJWed2AarzluznirsJwoCtv7AOM6vt_1Sw0meppcHhWOU7_z9cvjyK7ZuceYqSoEFCARNARZ5WbpObZ4R1hCJ_ULiVuQJPiv3WGgevfYxLzp6efG_st3fgz74PNsTrN9goYPwZM8uroPTvDmZyk45hbKFETrRrCKr44cCkcT0iOKRI"
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj3lD0yygrMw3dE1dkW5LG7x_3ZBBERZMFMAHE4YFNiHMxdNnLcfY441vtaX7Xres1eYpuUAf1mDVteV4xZWCTSDWPBdMLyTKQJNpVeU7z1RyVgO2IcfRgdLB7KGwqUVFtlkYt13PEO-Kfhk_vO7Yc8PWJZ6czhMJCc6_YqIhSshFppiKlSpc55JwuprTI"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjd26YCA3iioTIIROpY4tZRsUA78bjeNfMzssG4KnkoSb6RAVixPfFIrTHHv7utb6cC9rDeqfjkNSGvtDNmZ3BXD1EDfzR6SUzRqTUCC2dtStqMVwQlHu3y7g-uAt8hmALgwZU06wfHsRIL_MoOTXBhR0GQUtcEuvN73IFTmUsIQm8x5yo8zyl2WqYlSN8"
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEilmgDOAXaBIcKeCNUsm6UsexNe22DQZRIpuziC3EO15MbUy5sbdKIvYWgLip8f-og4JY8RBi48fzN9_oB4cTfJ0d-4am3dIbTeqe1SwKHMaTlY5a1q5GGJnvZeRS1PorDrxKwiwzf95VT6V4ue2JlmgggLnVbYLfqC4AfMp13Dihzzptx5dfhMx7tWT40"
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEilmgDOAXaBIcKeCNUsm6UsexNe22DQZRIpuziC3EO15MbUy5sbdKIvYWgLip8f-og4JY8RBi48fzN9_oB4cTfJ0d-4am3dIbTeqe1SwKHMaTlY5a1q5GGJnvZeRS1PorDrxKwiwzf95VT6V4ue2JlmgggLnVbYLfqC4AfMp13Dihzzptx5dfhMx7tWT40"
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhZsIJI1QDpSeYV5RRezvFC4Dl9CVZgwTIaA5gj9Irim4_Ua-qLPIP3mGrODvN_aGaYRX0EYQWw6eJ92-x9Qj4uc__dpZ32QqXM1JfXFXsi6E5tMG-KGNeRA6V4k9R-pcuA8oOc5Ki1pytwJX0xAgoSBuNaSJIDcV0P-SIES8KE_GVuNgbie6AcWFNv74s"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgKFtf3PSvBT7UxcketPWTog1SxkyadcGjmKnTM1RwOiH8hcPEm8Kf1z4X1d3hALfC68vJcWqr5E9IcdSbbGP5qdG-e23s52aLF3zIjZ11qwN6KX1bokGvnjtuCXnvWGQRqVBa2O1AmB19yHcO3SPhTztYUUGVN8lk7mUmbnhOaMx6tMG36CjF1O32xrmg"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjgY9AQqjVWL-jXP-Js8FtXu2LiaZBv0iipbZaCkRKqUAClHOoSpcZPPdVXDYFM-vBD9NrVCFPR5HnCGv_PES5Ib6axV8k7yXpWaTIX1UGzmal9myPpVmxeSoJKmLXa3nvAL3t96a6muVhfFxS9i98Jep5Y4hszw4rdnYPEbIDLIQGk1sJTSJbQKf0AVpo"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi8I3KI0_NKd1-giviU4CYySsc7XH8EoHxDM163v4KDWATN5HNFYnS3ZAR7hEACMH6iS42jIUT7B42bXKrb4vFJPPt6J69pShjSsTmC9MG1z3Zrp9FGzzQ56KmCcrHa34VepJg3GOSzE8lp1z6OYfcKZlwSbWtea2GPlZd1jV881Uq5Y8hNCGSlYUIo7ck"
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj-Fv7ZSS8lQ0QrBp2VnbCY5pifUdt-KtF6py3Eiwz7J3MnVePyAn3QChZBaWWIl3nTpF0JARvj9Zr5SoWOFSaJEt68rT2ImNNfwHZUNlH81D8LtYQPB-LPRdbpcVJ3uo3YVobWWTvhzCeZpJfXF8u7WYWCppq5GV9tG7v3aG9qCDI2W6rqt7davIqYx54"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "South Africa"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
         },
         {
           "question": "Both Inning Avg  Match Runs...?",
