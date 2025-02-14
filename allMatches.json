@@ -119,8 +119,8 @@
       "time": "01:00 PM",
       "venue": "Harare Sports Club",
       "matchType": "ODI",
-      "status": "Today 1 PM",
-      "finalTeam": "NA",
+      "status": "Lineups Out",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
@@ -137,7 +137,7 @@
       "headTeam": [
         {
           "title": "H2H - FINAL TEAM",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgM4SXV_65qmgU-Oy8WHcQApeS8ZaTCV33VoaDRvcd-nbf5N7-V24Vpm5s5I55oKTSt_zDbRIEDYf3acR--6fbgesISk2Hi0j9bCqRZiafsXL3Ro067PIsPVbhAX5YTZVf21I2R1TJlgUQ_bm8PDgLFYCGf7wUARjB6VlHkQRNd7-8M7JWaae6Zpcwv3zE"
         },
          {
           "title": "H2H - PRE TOSS TEAM",
@@ -147,7 +147,7 @@
       "megaTeam": [
          {
           "title": "MEGA - FINAL TEAM",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgLo7_MUjn1Ce-aQv6i17JulB1ce8uSRlX7jrto5QD8pZbVXjpNUSO14NcaQ_ed-3IpimuOxRHoQz2zpGlCj5eTqPmWdZ-49eSTyC-YJDfbE4Yci12Q_5Do8K0e0uQrO5_mEMTalaFZdb199qwF7ZaITLUx8gs77vaSb5S1Fef_vLnBajbKKSfM3LdBTTg"
         },
         {
           "title": "MEGA - PRE TOSS TEAM",
@@ -157,17 +157,17 @@
       "premiumTeam": [
        {
           "title": "Mega League Balance - Final Team",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjKbOvBLIE2looAYUa3BMjLpvWphwBysoL5uRY2YOFNGY3fBDKYN5VmP1pOuXCNZctx_y_GN3MQFgky12DE_QukBNRwqB65TfW5uCnt8t49kIFbmlkP__Q2tYEoWSgOQfuRLlWNyFo27QIjJM7VT6d_fgaa_vcUq2do6d90krrDIXBciN9uuIm8cqsRWpc"
         },
         
        {
           "title": "H2H League Balance - Final Team",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEht066OpvAt4qzp_RCQCFCdyyFryTZtAgx0el43a7CVCPVLsIK06j_gf2aCmlwrm0RJ7HWAyqBSrNNIM8smhFHUsv4U6dQGN8iCh1ECVzQzlpzPv9eQZsiyrrOaAnWbXAMKa8CmLB7eQfBwgEv17XqxQtDB0mjD7b1eC6Tzc36jYMgrsA3B2hOKmE8t414"
         },
         
        {
           "title": "Small League Balance - Final Team",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg7dVSPzYtY11q87rUWAz9Fam9GE68ZD9YyQCwiormGeHvuGldtyJKPfbEOSpaskxFOSkigdMMZqAGikPX25aEa64gY3zOiwfyL8jIiB6DK7OyDTAA8AbvUP2i8I50cny3uggtgHeihBAsc0Zgls71cZ4NcOsw5tFP2neZqtzB9YYI6z5yhKquQYpHQL7k"
         },
         {
           "title": "Mega League Balance - PRE TOSS Team",
@@ -186,7 +186,7 @@
       ],"smallTeam": [
          {
           "title": "SMALL - FINAL TEAM",
-          "url": ""
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhoZjUiuoeUv9OV_xixTjvLi45WCTG9C-C5w5FF9hrtcwxvKYPxfbcEFk43ar2uE0KVo9B_geWHHNITxjcim75b28Dm1GozMeWBrKpXLBED8xVaXAlcQ1C5paHNsXJ2ckdGOq9ALkn5fKX2YfhH3C2XfPirsn8VF2zghDUMKiufW8BXqnfxgbm9OlBD__M"
         },
         {
           "title": "SMALL - PRE TOSS TEAM",
