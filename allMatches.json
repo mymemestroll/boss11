@@ -12,8 +12,8 @@
       "time": "01:00 PM",
       "venue": "Harare Sports Club",
       "matchType": "ODI",
-      "status": "Today",
-      "finalTeam": "NA",
+      "status": "Lineups Out",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
