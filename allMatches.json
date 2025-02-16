@@ -12,7 +12,7 @@
       "time": "01:00 PM",
       "venue": "Harare Sports Club",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -118,7 +118,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium Kotambi Vadodara",
       "matchType": "T20",
-      "status": "Tomorrow",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -225,7 +225,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium Kotambi Vadodara",
       "matchType": "T20",
-      "status": "Upcoming",
+      "status": "Tomorrow",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
