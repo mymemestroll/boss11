@@ -1,114 +1,6 @@
 {
   "allMatches": [
 
-
-
-{
-"id": "01125532553d",
-      "matchNumber": "ODI 3 OF 3",
-      "name": "ZIM vs IRE",
-      "date": "18 FEB 2025",
-      "dateTimeGMT": "01:00 PM",
-      "time": "01:00 PM",
-      "venue": "Harare Sports Club",
-      "matchType": "ODI",
-      "status": "Live",
-      "finalTeam": "success",
-      "preTossTeam": "success",
-      "teamDetails": [
-        {
-          "code": "Zimbabwe",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-          "name": "Zimbabwe"
-        },
-        {
-          "code": "Ireland",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
-          "name": "Ireland"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgXZPv_Wvt1qCGs45ggieJCbFULpUtRfcp_0EY-4iQNWDKtPBTT44-h5hcXMvQfkwmg1a1l1jkh5BZQHknDDOIWHWy7M_CKi9ThCTh9wjzBZsigHlVHTrbTV7iJAgPjbeWgP83wiaERq0dxW-cJIhREOEt5jNK5iNBUuRaZSDN1xhrEsx6l4BzOda3Ml5c"
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi0WtLQPhp36kaUMQMorDdaljZL_dlxGNsQOEFRdl3Mh8GzHtev1BOZXqczuCZa16yCn8Nf473EsX9Q_bdZ0WcYW-SbQn6GMHqzNi1iO2-7noGQddPR82IRSo61RjC-TkXtMvMmJ-iAD9RsPxRC4Z2bwlTXO4RGxH4qJezKobaqA66-S4VqJ6sHc7ryyvQ"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiXBKlHwF6-kpERasLeYlLc704f4a5Osu8dr0bhCPT_OJaM_wf2rlQxYOKvyyxLB-C1heakZWTsLylUthdksAHWEiSmgHfxKydF2PaqDqAWGhqw6lXA_XUDsZs12MHE2Q9Aj7u82z_M0KmUorHE86_uXLVrM8BIF5juwVdBBueWb9OdUa33w9BRQ5QjMho"
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgjNjzTcseKfXEDd1uBsXz1ptXe5CWBP8XPpTEM0HUYEL-XoTeDIBJzwa0WXlCODk4p-SpQP2fOaAZdyH4b_p4RRhcS11N_Tg_7pgZKti48b_QP2AmmBA2k1u_l3JLpHLDuuj8QYQ8VRheTu1DjJGbmMGTYxD0bp0-M54KKfbgv3sFESKh2GntzZTdfZhs"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGKNjZA9DWqvxAW1fkCUgmVCAmNS6hw9GYkq6fiZtldalNttdRb6OsqLQG1-UF8K5RoWxQzqjtMtNOh0OQppOxrSgKZF4efZ8zIM5MMKNYRZegl4dN3gqahthYzabfOZWvAqIu-4urM9oIPWGYSLsEdwnaikwAzwGyDisI31flNoBxkfzacRG8IhwV07E"
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgxvdIpRQrz4J5NjrBGrgMloHgkbqoCDBhkwj5_uPWOZu8V_k7etJA4p0GQipZGzn_MdTS4IwV-p-psk73c731rzYhUu8LBn4IKvy-cgZLAykSm_BgV2VYzGgqRv92eBfmrJnUs_xk401XsEmn-sq-nB4nrLJvz5jsvcQcvBtclNBH7DXzcOCOH4yg7hGU"
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEja_43WCY2P5DnAC6ilawnn5sJmI_Dxa2TT_-WqM4i3KbzVqnYan91324IqHYgVwbhZq3V0hg-tTQ3cH5NmqX13Sb-BzXnsuPqJ2lp4JR4D2wT59ZXdpjjE2gi8IhN3rYr0pSm48Ykxro2u9m0gJ1v90kk4dBKdvRVJ0Evymh4-BLEEp1T8lNDSIlUPh2c"
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjZtU3T85bxh5BZv5cBZqcXNj5dJSRPHlEUHR1NH44shEec6SLOpB56hgHEKZbOzS1ErV_HW3LkFFeMHumfWopHKU_1oO0PgwQVUVtwOssEwZFxATPlXOexyRcX3v3MIcQw52mCqmEpDQUrzQae08qy2xcBZyOi3IrdKqvYDHuOF9qoP1qBZGnc2Gf6cMc"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjUNcYAq6l9s9fKfgJ52yUxCZNZuEHskQ2g6nQxkxKNhV_B1T4rtDeuwO6weMqXh2ZWNEHB8a3dv_EhqE1eNYwXOotkVE4l4ZEEbwV4oM_yo-FZRyq3TkCvpK7ypkgsT9RqTMljCOCuBbf93fejhbsXEt15U3-bpYPVdYdtxjEj8_EAmdWV2zIJNgi-fY4"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjX3zfCY64C7A1IFCROfsrVb_8nHr6LoqyU0zJjcJD9t9F3UvQCnuA6oyq74ZfH9UZVITgzxNtErG19CUob9ZOq8ufLefDrcGejzx-JVXkt79NCjmsOSrCre-HL2mfEeq06Lh6BLi9kUD8At5KZgYYK43b9kKzsNqsyM6GpPtKnyBKmXsV4l-YjkV1P29U"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhkEBPnoAfmzGeemCxgLaYSATDTupPxs896DWXWW4dfIZJuM83AoD1vaMlMoPY-dBFP6r1sXUJUGeI3F2KlEXIwseeRAipEbOHtM1Bu_p4S6XTwmZBWw8vNcV6PsoHarPxJtrn9iA3AEB2VUbMOJP6eY92ufeVHg2nDp9teMklAUthUeuD9XFAE0nKEpew"
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8024y1ZrywCAznPfxXi9aH82yYCxedaHke0y1nbNF_26ew8JQsNBlKIUghuPZ29CYD4zY88093B5iYOnflKEZ9M5Cw03SjrUAOEHQWHSnLp5kcliTb-h95npxfS-J7uDtuukUseeb0jLdJ20UXzQWRjiN2FBS0W5t4-LZebHIJkQS-kk_76X-WWQgH6w"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "Zimbabwe"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Batting First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "250-300 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,
-
-
     
 {
 "id": "01125532553d",
@@ -1388,6 +1280,113 @@
   </h1>",
       "teamScreenShorts": ""
     }
-   
+   ,
+
+
+    
+{
+"id": "01125532553d",
+      "matchNumber": "ODI 3 OF 3",
+      "name": "ZIM vs IRE",
+      "date": "18 FEB 2025",
+      "dateTimeGMT": "01:00 PM",
+      "time": "01:00 PM",
+      "venue": "Harare Sports Club",
+      "matchType": "ODI",
+      "status": "Result",
+      "finalTeam": "success",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Zimbabwe",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
+          "name": "Zimbabwe"
+        },
+        {
+          "code": "Ireland",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
+          "name": "Ireland"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgXZPv_Wvt1qCGs45ggieJCbFULpUtRfcp_0EY-4iQNWDKtPBTT44-h5hcXMvQfkwmg1a1l1jkh5BZQHknDDOIWHWy7M_CKi9ThCTh9wjzBZsigHlVHTrbTV7iJAgPjbeWgP83wiaERq0dxW-cJIhREOEt5jNK5iNBUuRaZSDN1xhrEsx6l4BzOda3Ml5c"
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi0WtLQPhp36kaUMQMorDdaljZL_dlxGNsQOEFRdl3Mh8GzHtev1BOZXqczuCZa16yCn8Nf473EsX9Q_bdZ0WcYW-SbQn6GMHqzNi1iO2-7noGQddPR82IRSo61RjC-TkXtMvMmJ-iAD9RsPxRC4Z2bwlTXO4RGxH4qJezKobaqA66-S4VqJ6sHc7ryyvQ"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiXBKlHwF6-kpERasLeYlLc704f4a5Osu8dr0bhCPT_OJaM_wf2rlQxYOKvyyxLB-C1heakZWTsLylUthdksAHWEiSmgHfxKydF2PaqDqAWGhqw6lXA_XUDsZs12MHE2Q9Aj7u82z_M0KmUorHE86_uXLVrM8BIF5juwVdBBueWb9OdUa33w9BRQ5QjMho"
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgjNjzTcseKfXEDd1uBsXz1ptXe5CWBP8XPpTEM0HUYEL-XoTeDIBJzwa0WXlCODk4p-SpQP2fOaAZdyH4b_p4RRhcS11N_Tg_7pgZKti48b_QP2AmmBA2k1u_l3JLpHLDuuj8QYQ8VRheTu1DjJGbmMGTYxD0bp0-M54KKfbgv3sFESKh2GntzZTdfZhs"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGKNjZA9DWqvxAW1fkCUgmVCAmNS6hw9GYkq6fiZtldalNttdRb6OsqLQG1-UF8K5RoWxQzqjtMtNOh0OQppOxrSgKZF4efZ8zIM5MMKNYRZegl4dN3gqahthYzabfOZWvAqIu-4urM9oIPWGYSLsEdwnaikwAzwGyDisI31flNoBxkfzacRG8IhwV07E"
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgxvdIpRQrz4J5NjrBGrgMloHgkbqoCDBhkwj5_uPWOZu8V_k7etJA4p0GQipZGzn_MdTS4IwV-p-psk73c731rzYhUu8LBn4IKvy-cgZLAykSm_BgV2VYzGgqRv92eBfmrJnUs_xk401XsEmn-sq-nB4nrLJvz5jsvcQcvBtclNBH7DXzcOCOH4yg7hGU"
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEja_43WCY2P5DnAC6ilawnn5sJmI_Dxa2TT_-WqM4i3KbzVqnYan91324IqHYgVwbhZq3V0hg-tTQ3cH5NmqX13Sb-BzXnsuPqJ2lp4JR4D2wT59ZXdpjjE2gi8IhN3rYr0pSm48Ykxro2u9m0gJ1v90kk4dBKdvRVJ0Evymh4-BLEEp1T8lNDSIlUPh2c"
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjZtU3T85bxh5BZv5cBZqcXNj5dJSRPHlEUHR1NH44shEec6SLOpB56hgHEKZbOzS1ErV_HW3LkFFeMHumfWopHKU_1oO0PgwQVUVtwOssEwZFxATPlXOexyRcX3v3MIcQw52mCqmEpDQUrzQae08qy2xcBZyOi3IrdKqvYDHuOF9qoP1qBZGnc2Gf6cMc"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjUNcYAq6l9s9fKfgJ52yUxCZNZuEHskQ2g6nQxkxKNhV_B1T4rtDeuwO6weMqXh2ZWNEHB8a3dv_EhqE1eNYwXOotkVE4l4ZEEbwV4oM_yo-FZRyq3TkCvpK7ypkgsT9RqTMljCOCuBbf93fejhbsXEt15U3-bpYPVdYdtxjEj8_EAmdWV2zIJNgi-fY4"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjX3zfCY64C7A1IFCROfsrVb_8nHr6LoqyU0zJjcJD9t9F3UvQCnuA6oyq74ZfH9UZVITgzxNtErG19CUob9ZOq8ufLefDrcGejzx-JVXkt79NCjmsOSrCre-HL2mfEeq06Lh6BLi9kUD8At5KZgYYK43b9kKzsNqsyM6GpPtKnyBKmXsV4l-YjkV1P29U"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhkEBPnoAfmzGeemCxgLaYSATDTupPxs896DWXWW4dfIZJuM83AoD1vaMlMoPY-dBFP6r1sXUJUGeI3F2KlEXIwseeRAipEbOHtM1Bu_p4S6XTwmZBWw8vNcV6PsoHarPxJtrn9iA3AEB2VUbMOJP6eY92ufeVHg2nDp9teMklAUthUeuD9XFAE0nKEpew"
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8024y1ZrywCAznPfxXi9aH82yYCxedaHke0y1nbNF_26ew8JQsNBlKIUghuPZ29CYD4zY88093B5iYOnflKEZ9M5Cw03SjrUAOEHQWHSnLp5kcliTb-h95npxfS-J7uDtuukUseeb0jLdJ20UXzQWRjiN2FBS0W5t4-LZebHIJkQS-kk_76X-WWQgH6w"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "Zimbabwe"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Batting First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+
   ]
   }
