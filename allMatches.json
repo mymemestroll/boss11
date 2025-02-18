@@ -1,113 +1,6 @@
 {
   "allMatches": [
 
-    
-
-    {
-"id": "01125532553d",
-      "matchNumber": "WPL T20 4 OF 22",
-      "name": "Women's Premier League",
-      "date": "17 FEB 2025",	
-      "dateTimeGMT": "07:30 PM",
-      "time": "07:30 PM",
-      "venue": "BCA Stadium Kotambi Vadodara",
-      "matchType": "T20",
-      "status": "Live",
-      "finalTeam": "success",
-      "preTossTeam": "success",
-      "teamDetails": [
-        		{
-          "code": "Delhi Capitals W",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/BbGPRT9-3nuxbGoMZMb2Fg_96x96.png",
-          "name": "Delhi Capitals W"
-        },
-        {
-          "code": "Royal Challengers Bangalore W",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/xIQheSbaSnKIp0OFLukRtA_96x96.png",
-          "name": "Royal Challengers Bangalore W"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8aZMTU8ArXqWyBmkKKifVm9Cz6eZIb9__ZwgwZTFOJQi9J8No3u8oKjtZ1V2u9w8mOcnZqKhm88RO641znn-PQFmVfJQO2SRlwHssHwq-ZOu7QrSYC510Tonj3HWy-GdTxBgP6EBCZ59VPxZ7WU57Gb7cxrjX1DlqR9GecOrNTqaHM1nMNVw76iOivRM"
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjO6ZAkQ_VW2SH_8TJ7PVoGZ2L5cDEq-DBo-4p824uOazCoyIVRr7Dctz74mwxGV512ppS5IP8ECpSnc8IdN4o3fLQiCWO1rbTXl5Hg9NR-B6E62OILwfEPb4z0rUvq4_S7CYGY844X6QzJlfiHXQYqCYUrWAbkwouniWDx78apBPN0ucDT_Q3DL6N0ALg"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjnWsOzp_tCAmZiOelJErpbkzOpSiBINdbBjHRS4X6V0B3SQTa4cqUd4fu1Sx_moFlXvizIp6_S0WCVPDEtxuFLn6b_Xq6rNj_NSsKdqIgc5t5mokPsiJOXkZ3wLsuwrQhbutuafJAX7lI0_tkkEUTXG9ECQ3m6lEMQZcdRuY86Ur9sZAHIGkoeVo6Kn68"
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhedov8vGPfANfAlidSHUAecfzHTVap9uM7KI9EbZ8hAvLvZdcNwPGey3Lzw1nG2Fhqsg9EstHubAq9uPsL59oGUJKB2-Emlju4gBF0HsEcxs-bxKskbxZps362F5Gk8NVQGz5T8w85q5lBjM90sWai2Eqs1Twc1lz0Nc6rNR8p7WPaC4bs8jmFO0cqblo"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiGkPygyxS_23w5g-Q1Bpimbo50mJn_d_IJb8tgI4ZpEtSTFzgs4gC5_J7KTmluChDu3z7GAocoL_016dI0MqMGl_Ty0DaImLypcI5ic1pMP2m90w23KC0LGPxn27O5lCIrJ6HCZssY_eLwfYaZ-0ATT0lDKz7sPYNozeghcVUc1NCRJH33WvI_yOSz64E"
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhgHg529OQeJxMH4JlzL3yUS0OvNDl2zdGg1R0pTOHAmqIaQ-xT2wIdZ7Jwip49HTQX6TqJ7GGAiHXAvAjUTmEXZ5q8Tuqw3bBKa3YD5sf6gqGLy3idodo5NbSrpjv0JB7MZWXuCadkb9sGa79Wl43VIUAI8CsLWQ0DnXVDzAv0NksrZqpl6kERL2nLBDE"
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhmqeKozOFj-FPQkeyNR1FdLDCov25V0G8PIBLw1v0keoo2Ef_KF2kpWApqycqMb1veX2HQ_71PbL3c0JCP8qYnfXcUqDiDoiGYonsd_UkAwzJmnrYOqTAM4-qnwQXcgUSRtfgIsBDzqqEJlpzyU_JOUWWpT9ZGKA9Y9ZDM6A-M4Mp2YwpgQG0PI7AfKv8"
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhBCqaG3Y3eSFDDohManNaxUpf8vDOvtedttcKg-cnS_uF4_4OHywuR4R_L1DefFcVlO-qL377dsWFy-xK7va4H7tUpT_mCiGEsiqmDFbfnIT0HNo1yG5-QmyU3LOMcEixVeubZdBz4leVY8dq18zAafSAkM_5KIXbLS7_hcmXNERAflQ7M89rjAX8WTLw"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiEnbAONCvqpbo_Qe9V0jVLt9jtwyDkNnyMCLjmt2ixaB2iz7XIo-dgKqdTtBh3Ho2jtvCM6K2bgoyvW1VKwrz6HkwWAIFu929lzFmFFJ5iGDXd7owIaTCKc_fRy_m2PbTP35pODu-lTNLbM28gwXfbDaOyjt5qRU1fUs0BsBrdNO7FuFJoAeMLc3qk7rU"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhlIKopC2TYcR4PK_tKRxtcA0rqWzBBa3EUbq38_gTDHIreHBENaVZq-H_sQVJIgjbOWZ8uLbLqwKKJTYOMO6tw2Qysl7bjwUccx4PkxlTdjxJ6uGKWq0wrikRbM_cvW3x6f3pix06WptX8OlD8Bo1i0Cd4PQKWDBBUdXSR-wDRq_JsZNDyMLFcVtY8AMc"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhrBTtF8hatQQA9_UWPtMmMPuWoJ4J5SF1-0E8uQn8ec88ITPn5mDKGbz5GBn43XDWQ1nW7a_TLaRJWuAXaC3TBVbyaDHVDbmLZnWFnC1VIeBlck9Yftbgjt7b9UX5SJbjskrw_T0LMouI-jt8X4NssBjwApctlIlb5PgZtjh10peqs7T6GiR0qiErtOvw"
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjAz9TTke6rDPdQNiBxAQ-kYgl5MXd3RLpTtz812m-zHF1ffI1T067IqFet6cK__WfLBNYdbJzYGeuvmgu86FyftNZP3bFE4z17moiGoqUjCZ2KWpWhwUsQlOg6FGhJr6F1K6fzs_ttrwm0CxijW_G3VesTut-zRaIIHJMjLR7NyNxkvT-q2dV6X6hZwFo"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "Delhi Capitals W"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Bowling First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "130-150 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-      ,
-
 
 
 {
@@ -119,7 +12,7 @@
       "time": "01:00 PM",
       "venue": "Harare Sports Club",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -226,7 +119,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium Kotambi Vadodara",
       "matchType": "T20",
-      "status": "Tomorrow",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -1388,6 +1281,113 @@
   </h1>",
       "teamScreenShorts": ""
     }
+,
 
+  
+
+    {
+"id": "01125532553d",
+      "matchNumber": "WPL T20 4 OF 22",
+      "name": "Women's Premier League",
+      "date": "17 FEB 2025",	
+      "dateTimeGMT": "07:30 PM",
+      "time": "07:30 PM",
+      "venue": "BCA Stadium Kotambi Vadodara",
+      "matchType": "T20",
+      "status": "Result",
+      "finalTeam": "success",
+      "preTossTeam": "success",
+      "teamDetails": [
+        		{
+          "code": "Delhi Capitals W",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/BbGPRT9-3nuxbGoMZMb2Fg_96x96.png",
+          "name": "Delhi Capitals W"
+        },
+        {
+          "code": "Royal Challengers Bangalore W",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/xIQheSbaSnKIp0OFLukRtA_96x96.png",
+          "name": "Royal Challengers Bangalore W"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8aZMTU8ArXqWyBmkKKifVm9Cz6eZIb9__ZwgwZTFOJQi9J8No3u8oKjtZ1V2u9w8mOcnZqKhm88RO641znn-PQFmVfJQO2SRlwHssHwq-ZOu7QrSYC510Tonj3HWy-GdTxBgP6EBCZ59VPxZ7WU57Gb7cxrjX1DlqR9GecOrNTqaHM1nMNVw76iOivRM"
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjO6ZAkQ_VW2SH_8TJ7PVoGZ2L5cDEq-DBo-4p824uOazCoyIVRr7Dctz74mwxGV512ppS5IP8ECpSnc8IdN4o3fLQiCWO1rbTXl5Hg9NR-B6E62OILwfEPb4z0rUvq4_S7CYGY844X6QzJlfiHXQYqCYUrWAbkwouniWDx78apBPN0ucDT_Q3DL6N0ALg"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjnWsOzp_tCAmZiOelJErpbkzOpSiBINdbBjHRS4X6V0B3SQTa4cqUd4fu1Sx_moFlXvizIp6_S0WCVPDEtxuFLn6b_Xq6rNj_NSsKdqIgc5t5mokPsiJOXkZ3wLsuwrQhbutuafJAX7lI0_tkkEUTXG9ECQ3m6lEMQZcdRuY86Ur9sZAHIGkoeVo6Kn68"
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhedov8vGPfANfAlidSHUAecfzHTVap9uM7KI9EbZ8hAvLvZdcNwPGey3Lzw1nG2Fhqsg9EstHubAq9uPsL59oGUJKB2-Emlju4gBF0HsEcxs-bxKskbxZps362F5Gk8NVQGz5T8w85q5lBjM90sWai2Eqs1Twc1lz0Nc6rNR8p7WPaC4bs8jmFO0cqblo"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiGkPygyxS_23w5g-Q1Bpimbo50mJn_d_IJb8tgI4ZpEtSTFzgs4gC5_J7KTmluChDu3z7GAocoL_016dI0MqMGl_Ty0DaImLypcI5ic1pMP2m90w23KC0LGPxn27O5lCIrJ6HCZssY_eLwfYaZ-0ATT0lDKz7sPYNozeghcVUc1NCRJH33WvI_yOSz64E"
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhgHg529OQeJxMH4JlzL3yUS0OvNDl2zdGg1R0pTOHAmqIaQ-xT2wIdZ7Jwip49HTQX6TqJ7GGAiHXAvAjUTmEXZ5q8Tuqw3bBKa3YD5sf6gqGLy3idodo5NbSrpjv0JB7MZWXuCadkb9sGa79Wl43VIUAI8CsLWQ0DnXVDzAv0NksrZqpl6kERL2nLBDE"
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhmqeKozOFj-FPQkeyNR1FdLDCov25V0G8PIBLw1v0keoo2Ef_KF2kpWApqycqMb1veX2HQ_71PbL3c0JCP8qYnfXcUqDiDoiGYonsd_UkAwzJmnrYOqTAM4-qnwQXcgUSRtfgIsBDzqqEJlpzyU_JOUWWpT9ZGKA9Y9ZDM6A-M4Mp2YwpgQG0PI7AfKv8"
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhBCqaG3Y3eSFDDohManNaxUpf8vDOvtedttcKg-cnS_uF4_4OHywuR4R_L1DefFcVlO-qL377dsWFy-xK7va4H7tUpT_mCiGEsiqmDFbfnIT0HNo1yG5-QmyU3LOMcEixVeubZdBz4leVY8dq18zAafSAkM_5KIXbLS7_hcmXNERAflQ7M89rjAX8WTLw"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiEnbAONCvqpbo_Qe9V0jVLt9jtwyDkNnyMCLjmt2ixaB2iz7XIo-dgKqdTtBh3Ho2jtvCM6K2bgoyvW1VKwrz6HkwWAIFu929lzFmFFJ5iGDXd7owIaTCKc_fRy_m2PbTP35pODu-lTNLbM28gwXfbDaOyjt5qRU1fUs0BsBrdNO7FuFJoAeMLc3qk7rU"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhlIKopC2TYcR4PK_tKRxtcA0rqWzBBa3EUbq38_gTDHIreHBENaVZq-H_sQVJIgjbOWZ8uLbLqwKKJTYOMO6tw2Qysl7bjwUccx4PkxlTdjxJ6uGKWq0wrikRbM_cvW3x6f3pix06WptX8OlD8Bo1i0Cd4PQKWDBBUdXSR-wDRq_JsZNDyMLFcVtY8AMc"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhrBTtF8hatQQA9_UWPtMmMPuWoJ4J5SF1-0E8uQn8ec88ITPn5mDKGbz5GBn43XDWQ1nW7a_TLaRJWuAXaC3TBVbyaDHVDbmLZnWFnC1VIeBlck9Yftbgjt7b9UX5SJbjskrw_T0LMouI-jt8X4NssBjwApctlIlb5PgZtjh10peqs7T6GiR0qiErtOvw"
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjAz9TTke6rDPdQNiBxAQ-kYgl5MXd3RLpTtz812m-zHF1ffI1T067IqFet6cK__WfLBNYdbJzYGeuvmgu86FyftNZP3bFE4z17moiGoqUjCZ2KWpWhwUsQlOg6FGhJr6F1K6fzs_ttrwm0CxijW_G3VesTut-zRaIIHJMjLR7NyNxkvT-q2dV6X6hZwFo"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "Delhi Capitals W"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "130-150 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+   
   ]
   }
