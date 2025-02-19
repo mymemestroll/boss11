@@ -11,7 +11,7 @@
       "time": "02:30 PM",
       "venue": "National Bank Stadium",
       "matchType": "ODI",
-      "status": "Upcoming",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -117,7 +117,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium Kotambi Vadodara",
       "matchType": "T20",
-      "status": "Upcoming",
+      "status": "Today",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -223,7 +223,7 @@
       "time": "02:30 PM",
       "venue": "Dubai International Cricket Stadium",
       "matchType": "ODI",
-      "status": "Upcoming",
+      "status": "Tomorrow",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
