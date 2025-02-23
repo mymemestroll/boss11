@@ -119,8 +119,8 @@
       "time": "05:00 PM",
       "venue": "Harare Sports Club",
       "matchType": "T20",
-      "status": "Today 5 PM",
-      "finalTeam": "NA",
+      "status": "Lineups Out",
+      "finalTeam": "success",
       "preTossTeam": "success",
       "teamDetails": [
         {
