@@ -1,113 +1,6 @@
 {
   "allMatches": [
 
-
-{
-"id": "01125532553d",
-      "matchNumber": "Group Stage ODI 6 of 15",
-      "name": "ICC Champions Trophy",
-      "date": "24 FEB 2025",
-      "dateTimeGMT": "02:30 PM",
-      "time": "02:30 PM",
-      "venue": "Rawalpindi Cricket Stadium",
-      "matchType": "ODI",
-      "status": "Live",
-      "finalTeam": "success",
-      "preTossTeam": "success",
-      "teamDetails": [
-        {
-          "code": "Bangladesh",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
-          "name": "Bangladesh"
-        },
-        {
-          "code": "New Zealand",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/vLzv_L6wZJ4ygGlIJLUc1A_96x96.png",
-          "name": "New Zealand"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhnRKQoaIZx-msXSUAUPaZfI0GT_prt-4ffEwKgQRYcUz9yrd7NiXx5QI2gIiON5auxMPe3ZxobLazaPZWHbEU2cJlr3YLLqaHp4_8EFllpq_lzpoMMmhJjfJ_MzS00vaCDpfeVkzCU4R14TDgXJIhp_gFY4PqIJZwOSxYomWqBIHgS4Df_qmHLl0tFy48"
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh0q-rxRuA75-LXmwI8X3uS1MzAAke-CY_RH5AFDhTVOLlRyeidx1SmdtpF9zPqtWQKva-lzwxUgtCVflQCrDazalW2mBUXv02fVoWGUg843uxFW5o0tgKLN9NujbQRGj0xx5LUWvp8pIo4QuMxU56pbSLiWnM8VbIqVkX1_EDmLlkIl8QLBHYiGONKdsk"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgEhZktLtSGviqp45vBeE5BbEUWZaN5l06so7UhTSdylEqUJwwzCv3M5761nQvpc7p8RPitmaJJrBEpr1b4rxr7GNgtjxLzUc25zDweeD0j3CM5FIWaEhvWijH_NyUxXP3wC-V77xl4t7O2CVry8LoLkjNzud_Bck0SfyWEXrX_nyhesh5Wr2X_LFkyaRE"
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgZOBPdai3fRLgUyV0V42nWgRdczg-QDxMEuSwmiLFAsWpJcLTHPXA6ikcgOdXtBAP6Akqd662vsZqWUB_75M16_XJQjEIFd2FHBR8zpt-mrdNHshj52kEgrWqbIHRuePjANz6RVBP417iw3iD1ulGxNSNw5qswVMrLMhimskuSSIeU3SYAJTOqlBwYdzI"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjQidcmwBnczEdf1Z3JGgqsiGqAXjDPQ1qXIHVb32u-duGYkdVXQfIMO2D4xCuDF0WYGC-z-C3odSU4R9uSZS9bOCw0Ly3t2mH5PPJthQ5wDTaGSkYXrngTHBPnN9Mm2xbrBHb41nKlKCbKpiAr_aM7jB2krT8BipUD0X1XYAz12S9oLL11gpv_GEI5T6A"
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgDvdtPXbBrsRWsOTZalPOiixlFqHYylPrh2yUs9-hZ5-4L-26uoUUjgmOM6_KyIueh2q_AUvpdDMS4VSeA1uGd-1oKqdFmz190OxPFD0d2QB657Pg7YIrD5fcEL1MGrea3zZ2J_nrj6MjNj2hQln2f_RzQm6ATZIRPKoj9IZzZ5QeVNea5eodYpYTxTDY"
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgr3sUPRT5ZZ1XvJupH94WKnoMKJhnUoPgkDmCq5QJ48aBJeKWnfStI2sZX6bLHHyMWViAsN6wzLSJz1h59QPYHKqwEHJIxe9OpbqE0dua3JqTv2dKtl_ZSj-WR1LXSZ-jaA7-D0QjMq-NhgmfjoRztoOZCQ1yRHrt1kMW2jceGCY4y1lgWuOsAtU_Cn8Q"
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh_aFJLyliURj957C-mOYiE3TprN5E7_KNCOboXp9ioh0Uxu_B_vPc2hAy6W_6MKXRgoYSKZz-p5k4l0c6uOQrwKDBN3Ot4gSA16LR7VwVLHDSMPL62IyJezcx6wr2UE3ztd0LivqqlfNf_ow7p8jvynIIhgOhfbDC-79pVsXpMPdiLB8lEKOG8-2DFNXM"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjyF3_oXbNcm3e3MOwqeIs66ig5zAAUbgUsAie5jsZhZyf-Dq1SQJHkhiBYQtDke7O_rmavU1kpIKBO43Y_LFE0Z1OOqCca7Euai88uaNb4Q1-5ZT31wrOuDzdq7h9S5nOTJFP05A9Pc_JLTMpsfl448MCpc4c6pi7DdPEOG5QDvetgstEBuSY4cex7sWo"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhSCWjIjWaOAlpTeDBsLxCSQj8okZX-dqCCTgxwrDE3WlNvAmYmICSK_RDaY7XYsqft9PMa56TBtjGW0ER0pJy0YNrpl4TRpsZ-7xBeA7KhjvOeG7js06nDaKPoqf5GNnGf_Qd9YkJGVGstq-tEIy8NJ4OPIHT3E2gxAZC0TtHWxOExRzRKlCwRcmDchiE"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg2iM0DgNUzIjys6sTG7hVMPhOKfRBIM_zDbeGlIGZajtYrlYf_Ml_NwUhA41jRjP3oU6TLBDPeXU69ctnR9qKo-kCwGfMGJm-qlfT8_emOVuyaS8B0EnLqODlhuqHBgj3UH_cVL8V7HG4-ErMMKBi9brVbI52AEtyxJSVSe5Z92075DCs4A4cI7ot13DY"
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiexTIzxHCcbcSqWfIzS8iuLVTNxip0bEdS725OywVJ2lf7tORwSJWoMhdRIkxD3g2bqdnM2HLFBU60dr5uEUmeQoPMQ4BCJeb2uTXwecMuzkdEQ8A9_erF0IrCZd7DNVflhoVGPBnKqFlEhmQ8hMfSdw1EtXnk9kppT3FVS9_chT3q1CfVq2KF23UM0ds"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "New Zealand"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Bowling First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "250-300 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,
-
-
     
     {
 "id": "01125532553d",
@@ -1359,6 +1252,112 @@
         {
           "question": "Who Will Win Toss...?",
           "answer": "India"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+   ,
+
+    
+{
+"id": "01125532553d",
+      "matchNumber": "Group Stage ODI 6 of 15",
+      "name": "ICC Champions Trophy",
+      "date": "24 FEB 2025",
+      "dateTimeGMT": "02:30 PM",
+      "time": "02:30 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "matchType": "ODI",
+      "status": "Result",
+      "finalTeam": "success",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Bangladesh",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+          "name": "Bangladesh"
+        },
+        {
+          "code": "New Zealand",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/vLzv_L6wZJ4ygGlIJLUc1A_96x96.png",
+          "name": "New Zealand"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhnRKQoaIZx-msXSUAUPaZfI0GT_prt-4ffEwKgQRYcUz9yrd7NiXx5QI2gIiON5auxMPe3ZxobLazaPZWHbEU2cJlr3YLLqaHp4_8EFllpq_lzpoMMmhJjfJ_MzS00vaCDpfeVkzCU4R14TDgXJIhp_gFY4PqIJZwOSxYomWqBIHgS4Df_qmHLl0tFy48"
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh0q-rxRuA75-LXmwI8X3uS1MzAAke-CY_RH5AFDhTVOLlRyeidx1SmdtpF9zPqtWQKva-lzwxUgtCVflQCrDazalW2mBUXv02fVoWGUg843uxFW5o0tgKLN9NujbQRGj0xx5LUWvp8pIo4QuMxU56pbSLiWnM8VbIqVkX1_EDmLlkIl8QLBHYiGONKdsk"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgEhZktLtSGviqp45vBeE5BbEUWZaN5l06so7UhTSdylEqUJwwzCv3M5761nQvpc7p8RPitmaJJrBEpr1b4rxr7GNgtjxLzUc25zDweeD0j3CM5FIWaEhvWijH_NyUxXP3wC-V77xl4t7O2CVry8LoLkjNzud_Bck0SfyWEXrX_nyhesh5Wr2X_LFkyaRE"
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgZOBPdai3fRLgUyV0V42nWgRdczg-QDxMEuSwmiLFAsWpJcLTHPXA6ikcgOdXtBAP6Akqd662vsZqWUB_75M16_XJQjEIFd2FHBR8zpt-mrdNHshj52kEgrWqbIHRuePjANz6RVBP417iw3iD1ulGxNSNw5qswVMrLMhimskuSSIeU3SYAJTOqlBwYdzI"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjQidcmwBnczEdf1Z3JGgqsiGqAXjDPQ1qXIHVb32u-duGYkdVXQfIMO2D4xCuDF0WYGC-z-C3odSU4R9uSZS9bOCw0Ly3t2mH5PPJthQ5wDTaGSkYXrngTHBPnN9Mm2xbrBHb41nKlKCbKpiAr_aM7jB2krT8BipUD0X1XYAz12S9oLL11gpv_GEI5T6A"
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgDvdtPXbBrsRWsOTZalPOiixlFqHYylPrh2yUs9-hZ5-4L-26uoUUjgmOM6_KyIueh2q_AUvpdDMS4VSeA1uGd-1oKqdFmz190OxPFD0d2QB657Pg7YIrD5fcEL1MGrea3zZ2J_nrj6MjNj2hQln2f_RzQm6ATZIRPKoj9IZzZ5QeVNea5eodYpYTxTDY"
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgr3sUPRT5ZZ1XvJupH94WKnoMKJhnUoPgkDmCq5QJ48aBJeKWnfStI2sZX6bLHHyMWViAsN6wzLSJz1h59QPYHKqwEHJIxe9OpbqE0dua3JqTv2dKtl_ZSj-WR1LXSZ-jaA7-D0QjMq-NhgmfjoRztoOZCQ1yRHrt1kMW2jceGCY4y1lgWuOsAtU_Cn8Q"
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh_aFJLyliURj957C-mOYiE3TprN5E7_KNCOboXp9ioh0Uxu_B_vPc2hAy6W_6MKXRgoYSKZz-p5k4l0c6uOQrwKDBN3Ot4gSA16LR7VwVLHDSMPL62IyJezcx6wr2UE3ztd0LivqqlfNf_ow7p8jvynIIhgOhfbDC-79pVsXpMPdiLB8lEKOG8-2DFNXM"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjyF3_oXbNcm3e3MOwqeIs66ig5zAAUbgUsAie5jsZhZyf-Dq1SQJHkhiBYQtDke7O_rmavU1kpIKBO43Y_LFE0Z1OOqCca7Euai88uaNb4Q1-5ZT31wrOuDzdq7h9S5nOTJFP05A9Pc_JLTMpsfl448MCpc4c6pi7DdPEOG5QDvetgstEBuSY4cex7sWo"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhSCWjIjWaOAlpTeDBsLxCSQj8okZX-dqCCTgxwrDE3WlNvAmYmICSK_RDaY7XYsqft9PMa56TBtjGW0ER0pJy0YNrpl4TRpsZ-7xBeA7KhjvOeG7js06nDaKPoqf5GNnGf_Qd9YkJGVGstq-tEIy8NJ4OPIHT3E2gxAZC0TtHWxOExRzRKlCwRcmDchiE"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEg2iM0DgNUzIjys6sTG7hVMPhOKfRBIM_zDbeGlIGZajtYrlYf_Ml_NwUhA41jRjP3oU6TLBDPeXU69ctnR9qKo-kCwGfMGJm-qlfT8_emOVuyaS8B0EnLqODlhuqHBgj3UH_cVL8V7HG4-ErMMKBi9brVbI52AEtyxJSVSe5Z92075DCs4A4cI7ot13DY"
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiexTIzxHCcbcSqWfIzS8iuLVTNxip0bEdS725OywVJ2lf7tORwSJWoMhdRIkxD3g2bqdnM2HLFBU60dr5uEUmeQoPMQ4BCJeb2uTXwecMuzkdEQ8A9_erF0IrCZd7DNVflhoVGPBnKqFlEhmQ8hMfSdw1EtXnk9kppT3FVS9_chT3q1CfVq2KF23UM0ds"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "New Zealand"
         },
         {
           "question": "What will Toss Winning Team Opt...?",
