@@ -4,113 +4,6 @@
     
 {
 "id": "01125532553d",
-      "matchNumber": "Group Stage ODI 7 of 15",
-      "name": "ICC Champions Trophy",
-      "date": "25 FEB 2025",
-      "dateTimeGMT": "02:30 PM",
-      "time": "02:30 PM",
-      "venue": "Rawalpindi Cricket Stadium",
-      "matchType": "ODI",
-      "status": "Rain Delay",
-      "finalTeam": "NA",
-      "preTossTeam": "success",
-      "teamDetails": [
-        {
-          "code": "Australia",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-          "name": "Australia"
-        },
-        {
-          "code": "South Africa",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-          "name": "South Africa"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": ""
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiFW_P6H3-2GoMrAgLBCnXDAXd03Fu-Jin8lyMpDYV1X2U8aMgEqokYPQu3MUxMCDeT-ZeOjtutvf5ih0UJJ9_6W6Wujw765Y9fxYYlrBfPgfNXC2QADDqCqOwmzovs0y6M6w6sXKM-TvE1dFx-JIj0VUPnvMQJBTS2YSXLZgg7SCVb1sALnopdLoyT3I0"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": ""
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjicaZXCWhEwQuAYGgI0d1PNx29RaKdz2cq6hGIhGn_fs-FLF5YkeDc7QVginRFb1AyNn939Gy0Kq1D7rqBWsAvMcqg4AW4nKCnaZ2sNSLeJt_6SoPZUyfjC2G11x75YzsHVAPfR16sFoinImqHgsrwGXQJtCzUi_0FztLPTRLgD0UjnAW_lLCumgxO_9c"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": ""
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": ""
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": ""
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiibbhAdGznO3HVLGb43yn5npLMf4d4pSsQ9FJQ-FiZr_JTpMKvjSveTkr-q3R4Jlk4QQZdWcgnSPnruFGdlhF3GJoc-RVVzvDPrSc1tGgpVzeNw27zFuele1R5td6_eYVGxCHvJ2DnN5iuZyl_606-bKlsXpZCqVLJsGc2opKg-3vrOdFwZhKtb5_Erxw"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh9k6ixs9BSAZV1PsTvyHQYqVeZW2ZxPcgusBGj6SRP-siIWa9ejuDwGdRgt3ddZfFHAHM_lUoml4vBpBGxuIQPbSYxxfvN-F1_bxCgnlhzwM-DqwJFGG1Vyky5SuugK0ZpJ0ZJf-jaI8lw9fJFKDHKZLOnymVViBNH5z223W9MUZwYmBlKh897h12Fy9k"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjKAUXgZPDsI56vNR0rr3bRIHzHIb_jpa76dj1eRoBdOGW0KG1aw-7ySdpuuFYU5tWfIjV5nKxpZ7GH9TLYhwTTQWK44DqT9ob0BzPyagGdwrKi77HVI9VAsZA1jc7OYiFdWR_CopCTUtwgqodrAF3TxCNtk7kfykG3WQnM5kcRVAGATCWeJqAui1K-QsY"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": ""
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhfIJ0LpNtmG8trtImW1wFnESOnLprObypWzGib8mmY2Hs6K6UXbp91FOWx_AvVi3VIuaBPnRLpOvvlz4s7tE3MhGNMfVA9Oj9K9zjFuKkSYrG43BAxul7Qj8vxRAJnHNI9NacBrHKz1xyCQvs_b2_Fe7xovanSO6dCTQZ_g44bdTGGX6zBLnBjEtm91NQ"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "Australia"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Bowling First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "250-300 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,
-
-
-    
-{
-"id": "01125532553d",
       "matchNumber": "WPL T20 10 OF 22",
       "name": "Women's Premier League",
       "date": "25 FEB 2025",	
@@ -1372,6 +1265,112 @@
   </h1>",
       "teamScreenShorts": ""
     }
-     
+     ,
+
+        
+{
+"id": "01125532553d",
+      "matchNumber": "Group Stage ODI 7 of 15",
+      "name": "ICC Champions Trophy",
+      "date": "25 FEB 2025",
+      "dateTimeGMT": "02:30 PM",
+      "time": "02:30 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "matchType": "ODI",
+      "status": "No Result",
+      "finalTeam": "NA",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Australia",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+          "name": "Australia"
+        },
+        {
+          "code": "South Africa",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+          "name": "South Africa"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": ""
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiFW_P6H3-2GoMrAgLBCnXDAXd03Fu-Jin8lyMpDYV1X2U8aMgEqokYPQu3MUxMCDeT-ZeOjtutvf5ih0UJJ9_6W6Wujw765Y9fxYYlrBfPgfNXC2QADDqCqOwmzovs0y6M6w6sXKM-TvE1dFx-JIj0VUPnvMQJBTS2YSXLZgg7SCVb1sALnopdLoyT3I0"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": ""
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjicaZXCWhEwQuAYGgI0d1PNx29RaKdz2cq6hGIhGn_fs-FLF5YkeDc7QVginRFb1AyNn939Gy0Kq1D7rqBWsAvMcqg4AW4nKCnaZ2sNSLeJt_6SoPZUyfjC2G11x75YzsHVAPfR16sFoinImqHgsrwGXQJtCzUi_0FztLPTRLgD0UjnAW_lLCumgxO_9c"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": ""
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": ""
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiibbhAdGznO3HVLGb43yn5npLMf4d4pSsQ9FJQ-FiZr_JTpMKvjSveTkr-q3R4Jlk4QQZdWcgnSPnruFGdlhF3GJoc-RVVzvDPrSc1tGgpVzeNw27zFuele1R5td6_eYVGxCHvJ2DnN5iuZyl_606-bKlsXpZCqVLJsGc2opKg-3vrOdFwZhKtb5_Erxw"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh9k6ixs9BSAZV1PsTvyHQYqVeZW2ZxPcgusBGj6SRP-siIWa9ejuDwGdRgt3ddZfFHAHM_lUoml4vBpBGxuIQPbSYxxfvN-F1_bxCgnlhzwM-DqwJFGG1Vyky5SuugK0ZpJ0ZJf-jaI8lw9fJFKDHKZLOnymVViBNH5z223W9MUZwYmBlKh897h12Fy9k"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjKAUXgZPDsI56vNR0rr3bRIHzHIb_jpa76dj1eRoBdOGW0KG1aw-7ySdpuuFYU5tWfIjV5nKxpZ7GH9TLYhwTTQWK44DqT9ob0BzPyagGdwrKi77HVI9VAsZA1jc7OYiFdWR_CopCTUtwgqodrAF3TxCNtk7kfykG3WQnM5kcRVAGATCWeJqAui1K-QsY"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": ""
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhfIJ0LpNtmG8trtImW1wFnESOnLprObypWzGib8mmY2Hs6K6UXbp91FOWx_AvVi3VIuaBPnRLpOvvlz4s7tE3MhGNMfVA9Oj9K9zjFuKkSYrG43BAxul7Qj8vxRAJnHNI9NacBrHKz1xyCQvs_b2_Fe7xovanSO6dCTQZ_g44bdTGGX6zBLnBjEtm91NQ"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "Australia"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+
   ]
   }
