@@ -11,7 +11,7 @@
       "time": "02:30 PM",
       "venue": "Gaddafi Stadium",
       "matchType": "ODI",
-      "status": "Tomorrow",
+      "status": "Today 2:30 PM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -116,7 +116,7 @@
       "time": "07:30 PM",
       "venue": "M Chinnaswamy Stadium",
       "matchType": "T20",
-      "status": "Tomorrow",
+      "status": "Today 7:30 PM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -221,7 +221,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium",
       "matchType": "T20",
-      "status": "Tomorrow",
+      "status": "Today 7:30 PM",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -327,7 +327,7 @@
       "time": "02:30 PM",
       "venue": "National Bank Stadium",
       "matchType": "ODI",
-      "status": "Upcoming",
+      "status": "Tomorrow",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -431,7 +431,7 @@
       "time": "07:30 PM",
       "venue": "M Chinnaswamy Stadium",
       "matchType": "T20",
-      "status": "Upcoming",
+      "status": "Tomorrow",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
@@ -537,7 +537,7 @@
       "time": "07:30 PM",
       "venue": "BCA Stadium",
       "matchType": "T20",
-      "status": "Upcoming",
+      "status": "Tomorrow",
       "finalTeam": "NA",
       "preTossTeam": "success",
       "teamDetails": [
