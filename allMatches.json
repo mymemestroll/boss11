@@ -1,111 +1,6 @@
 {
   "allMatches": [
     
-    
-{
-"id": "01125532553d",
-      "matchNumber": "Group Stage ODI 10 of 15",
-      "name": "ICC Champions Trophy",
-      "date": "28 FEB 2025",
-      "dateTimeGMT": "02:30 PM",
-      "time": "02:30 PM",
-      "venue": "Gaddafi Stadium",
-      "matchType": "ODI",
-      "status": "Live",
-      "finalTeam": "success",
-      "preTossTeam": "success",
-      "teamDetails": [
-        {
-          "code": "Afghanistan",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
-          "name": "Afghanistan"
-        },
-        {
-          "code": "Australia",
-          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-          "name": "Australia"
-        }
-      ],
-      "headTeam": [
-        {
-          "title": "H2H - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgeRZ2yOR2C2V1MWS7UsF5hXh_M3c3naValnN-OJPT0ITKpv61t76xK07NcYru4et8Ek1S21EtIpdrPEOtblJeKBJvVXqPxYyfhC_61kuJCvELr5a6_9Plj-SEFHSpFvcowry3qGgrT4yu-SU-L4AsANr0uxWd7Khhtf0kZxGoIuQ5lPGsEp8nbF-6oUFA"
-        },
-         {
-          "title": "H2H - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiEKL8UNP0jVtrUDkzuIgRNf5y2oAU0jjcZ7bTtlLD2GPc9TYD5Y0o9T_1896Iv9DAvqZ2sFvZi6JOnYkenvEw7LkflI3VRxDlncuPSkDz-3gNKIoDc52szuf84y-dS09qxbrI-KX8WaxNd9TsOgGC7_HPVSaUgyaovX3IFv7otZzIayLDVJ2QWRCAKnLE"
-        }
-      ],
-      "megaTeam": [
-         {
-          "title": "MEGA - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj_4Uy3JwkXbSgh-zU4TqGf_l99mYAghdOLImNmgL5QNxDAhHvNlGiHVZY8a9q8EdyyU6WSB7meAvp7jtKTruZgjBI9dQhyMdKJOHhnD2eEHFgVMl5K6eQuAQgFmF1le4HOybp_JMUUEPFrTqkCMe0FNgUuBaRFgJs_ONWGjb7x1-36wczYKzRkNorSD-w"
-        },
-        {
-          "title": "MEGA - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgZIK59C1y1fLzJPN6eKvJyDuY49KNaMmCyR8lLwXD5Sv8Dh_o-6xYilF8om2RtL_6SdaUebacytx4uUeESt9HhxX0A185vN-SRNAk9cZAxcgTn5bL9hVgR4m5Tw4FHjjfyhrlnELxQ436-_SJdqnoznbsd_u_KT3duE1Tm_8B_NmAOYkg5_8pxfbpTJYM"
-        }
-      ],
-      "premiumTeam": [
-       {
-          "title": "Mega League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjZR79CAQo4nlRfiYzxQWD1snw3ZR-PfRwQvsNaUHbrUbsv8vzl380cre5l14dVyLQ7uu7oQ-0LZi8nLHb4ndcrptbcNdMBqNbbpW126gBwfEdCqJJlw7XuVSyrRUUhNHnsvOci1ylFD3dmAkRZVIOKutvERJSX93HmKo4wrp1srmqWV61fPqQqsMhFfXw"
-        },
-        
-       {
-          "title": "H2H League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhWMt-uh-pzrEk5Lrrg05Mmxx9ns32a3dN_UWxeEl6w322VNhFttJjIGGdENx-C257yKc_5EiWranpNnIy2VHiY_-_4FBmvJcQ3qGstSOmdeo-fMh7ObbST6O76MUyokDMFzTxMS64t_BjIMGzMMUmccIeXlODumVb-0i9CqcDmFhFyKsoc28-X8iq1bx8"
-        },
-        
-       {
-          "title": "Small League Balance - Final Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh1Epf2JO6nGHTDTcEa8FBzLEa9b5FaER_cDGp7UCP_ykfBLVWdl0LyoTJ5-LnoCA1cSv2Ruklg19E-HEHl868i5-Yi3Qz629GJP1E0t-KZ7XK-NqpmU9Cmi6P5H3Drrj5MCp9-HoX601wMO7y_794p-ukmMSwRYeckq_jt7ygqbdwEGr5efKPU6W-kTPc"
-        },
-        {
-          "title": "Mega League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhfIGo6ok5jMNauHGlAQAMjV7Jazg5kBIautal-AXLEstHtmiIDe1aYx6l1jnWSZryge-5OQhLvwO2N4f8u0UOwey8uUPuGIR_ODVLSTqJUVVy6wh1fVlRmBUrA-qFnq8cQqeRtnpWyVr8xE1Gq1fJiIEBnc7B5bUZcJQ978vHUcIXJWGHyYt-uLCnLeoU"
-        },
-
-        {
-          "title": "H2H League Balance - PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgIVj3IlX1Zdz3sNxZB6HOUbafYJ88mTTo77FH_f6jsJB4aPdULRDXOVCrl5SmFLZHq71vd4fzFCwyhHjoUyyjMB1xYpmw7_qRsasijjbNlaZnpD0GfOxMUr0o6f9l2QLt9eeLWNjVNQpa3tFKrKiLYuQ-URKcnt0_hEgmlPfwFglee62-VVhvl5rhNEJs"
-        },
-        
-        {
-          "title": "Small League Balance- PRE TOSS Team",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjtAXY8bDXUez6gF3NUTM0SXz5yY_EQvPF4B_f1zYvxDUdeRByItKcs0nK_T6F8FC5OD1KPvve-6yyHJAnzlNewFjRNLxZnz9WC156BxmuhywtO-q-K-bLm_mBOZ0-oWu7jQOxIi1_OIr_VXH-QpZv1vaQICTRzNpMo934v2wOgzH08Gxv3DM-PdkDVUYM"
-        }
-      ],"smallTeam": [
-         {
-          "title": "SMALL - FINAL TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgpWDV4CuYtaXPoTv1C-FbMXcbFd2BOymSh-9zZHAgFMA71D_y4f62ZLeDtyAHgqsmJFf77MceLvHa1nboEUCGqKKdFNClvWrIpnq5urRuBTxvmABTgoLhI1ylmwQHLcMP3ImP857eOzBRj_M7iingM-wVh9z8UusFiZ8YjqcIcJ5m5ySLPo8RiOKTw_pc"
-        },
-        {
-          "title": "SMALL - PRE TOSS TEAM",
-          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiTnpGZRg8uu8WcjbGRMQ66YcB6TQbddQdHM_TCykuAVMDu0_IhNZO259TZH1rcsXmtZncavdohupr4Rvb3nWioXR28QfcOhNd34Hf_MO-hJw4VUplv--cFZ73arCV511vB5vKcuCHdCPfxhL_pvnA5i9gm7lCjSF4nqIz2RihHOGY_HMdmney2yeRLe5U"
-        }
-      ],
-      "matchOpinion": [
-        {
-          "question": "Who Will Win Toss...?",
-          "answer": "Australia"
-        },
-        {
-          "question": "What will Toss Winning Team Opt...?",
-          "answer": "Bowling First"
-        },
-        {
-          "question": "Both Inning Avg  Match Runs...?",
-          "answer": "250-300 Runs"
-        }
-      ],
-      "preview": "success",
-      "teamPreviewHTML": "<h1>
-    Write, edit and run HTML, CSS and JavaScript code online.
-  </h1>",
-      "teamScreenShorts": ""
-    }
-    ,
 
 {
 "id": "01125532553d",
@@ -1371,6 +1266,111 @@
   </h1>",
       "teamScreenShorts": ""
     }
-     
+,
+        
+{
+"id": "01125532553d",
+      "matchNumber": "Group Stage ODI 10 of 15",
+      "name": "ICC Champions Trophy",
+      "date": "28 FEB 2025",
+      "dateTimeGMT": "02:30 PM",
+      "time": "02:30 PM",
+      "venue": "Gaddafi Stadium",
+      "matchType": "ODI",
+      "status": "No Result",
+      "finalTeam": "success",
+      "preTossTeam": "success",
+      "teamDetails": [
+        {
+          "code": "Afghanistan",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
+          "name": "Afghanistan"
+        },
+        {
+          "code": "Australia",
+          "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+          "name": "Australia"
+        }
+      ],
+      "headTeam": [
+        {
+          "title": "H2H - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgeRZ2yOR2C2V1MWS7UsF5hXh_M3c3naValnN-OJPT0ITKpv61t76xK07NcYru4et8Ek1S21EtIpdrPEOtblJeKBJvVXqPxYyfhC_61kuJCvELr5a6_9Plj-SEFHSpFvcowry3qGgrT4yu-SU-L4AsANr0uxWd7Khhtf0kZxGoIuQ5lPGsEp8nbF-6oUFA"
+        },
+         {
+          "title": "H2H - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiEKL8UNP0jVtrUDkzuIgRNf5y2oAU0jjcZ7bTtlLD2GPc9TYD5Y0o9T_1896Iv9DAvqZ2sFvZi6JOnYkenvEw7LkflI3VRxDlncuPSkDz-3gNKIoDc52szuf84y-dS09qxbrI-KX8WaxNd9TsOgGC7_HPVSaUgyaovX3IFv7otZzIayLDVJ2QWRCAKnLE"
+        }
+      ],
+      "megaTeam": [
+         {
+          "title": "MEGA - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj_4Uy3JwkXbSgh-zU4TqGf_l99mYAghdOLImNmgL5QNxDAhHvNlGiHVZY8a9q8EdyyU6WSB7meAvp7jtKTruZgjBI9dQhyMdKJOHhnD2eEHFgVMl5K6eQuAQgFmF1le4HOybp_JMUUEPFrTqkCMe0FNgUuBaRFgJs_ONWGjb7x1-36wczYKzRkNorSD-w"
+        },
+        {
+          "title": "MEGA - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgZIK59C1y1fLzJPN6eKvJyDuY49KNaMmCyR8lLwXD5Sv8Dh_o-6xYilF8om2RtL_6SdaUebacytx4uUeESt9HhxX0A185vN-SRNAk9cZAxcgTn5bL9hVgR4m5Tw4FHjjfyhrlnELxQ436-_SJdqnoznbsd_u_KT3duE1Tm_8B_NmAOYkg5_8pxfbpTJYM"
+        }
+      ],
+      "premiumTeam": [
+       {
+          "title": "Mega League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjZR79CAQo4nlRfiYzxQWD1snw3ZR-PfRwQvsNaUHbrUbsv8vzl380cre5l14dVyLQ7uu7oQ-0LZi8nLHb4ndcrptbcNdMBqNbbpW126gBwfEdCqJJlw7XuVSyrRUUhNHnsvOci1ylFD3dmAkRZVIOKutvERJSX93HmKo4wrp1srmqWV61fPqQqsMhFfXw"
+        },
+        
+       {
+          "title": "H2H League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhWMt-uh-pzrEk5Lrrg05Mmxx9ns32a3dN_UWxeEl6w322VNhFttJjIGGdENx-C257yKc_5EiWranpNnIy2VHiY_-_4FBmvJcQ3qGstSOmdeo-fMh7ObbST6O76MUyokDMFzTxMS64t_BjIMGzMMUmccIeXlODumVb-0i9CqcDmFhFyKsoc28-X8iq1bx8"
+        },
+        
+       {
+          "title": "Small League Balance - Final Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh1Epf2JO6nGHTDTcEa8FBzLEa9b5FaER_cDGp7UCP_ykfBLVWdl0LyoTJ5-LnoCA1cSv2Ruklg19E-HEHl868i5-Yi3Qz629GJP1E0t-KZ7XK-NqpmU9Cmi6P5H3Drrj5MCp9-HoX601wMO7y_794p-ukmMSwRYeckq_jt7ygqbdwEGr5efKPU6W-kTPc"
+        },
+        {
+          "title": "Mega League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhfIGo6ok5jMNauHGlAQAMjV7Jazg5kBIautal-AXLEstHtmiIDe1aYx6l1jnWSZryge-5OQhLvwO2N4f8u0UOwey8uUPuGIR_ODVLSTqJUVVy6wh1fVlRmBUrA-qFnq8cQqeRtnpWyVr8xE1Gq1fJiIEBnc7B5bUZcJQ978vHUcIXJWGHyYt-uLCnLeoU"
+        },
+
+        {
+          "title": "H2H League Balance - PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgIVj3IlX1Zdz3sNxZB6HOUbafYJ88mTTo77FH_f6jsJB4aPdULRDXOVCrl5SmFLZHq71vd4fzFCwyhHjoUyyjMB1xYpmw7_qRsasijjbNlaZnpD0GfOxMUr0o6f9l2QLt9eeLWNjVNQpa3tFKrKiLYuQ-URKcnt0_hEgmlPfwFglee62-VVhvl5rhNEJs"
+        },
+        
+        {
+          "title": "Small League Balance- PRE TOSS Team",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjtAXY8bDXUez6gF3NUTM0SXz5yY_EQvPF4B_f1zYvxDUdeRByItKcs0nK_T6F8FC5OD1KPvve-6yyHJAnzlNewFjRNLxZnz9WC156BxmuhywtO-q-K-bLm_mBOZ0-oWu7jQOxIi1_OIr_VXH-QpZv1vaQICTRzNpMo934v2wOgzH08Gxv3DM-PdkDVUYM"
+        }
+      ],"smallTeam": [
+         {
+          "title": "SMALL - FINAL TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgpWDV4CuYtaXPoTv1C-FbMXcbFd2BOymSh-9zZHAgFMA71D_y4f62ZLeDtyAHgqsmJFf77MceLvHa1nboEUCGqKKdFNClvWrIpnq5urRuBTxvmABTgoLhI1ylmwQHLcMP3ImP857eOzBRj_M7iingM-wVh9z8UusFiZ8YjqcIcJ5m5ySLPo8RiOKTw_pc"
+        },
+        {
+          "title": "SMALL - PRE TOSS TEAM",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiTnpGZRg8uu8WcjbGRMQ66YcB6TQbddQdHM_TCykuAVMDu0_IhNZO259TZH1rcsXmtZncavdohupr4Rvb3nWioXR28QfcOhNd34Hf_MO-hJw4VUplv--cFZ73arCV511vB5vKcuCHdCPfxhL_pvnA5i9gm7lCjSF4nqIz2RihHOGY_HMdmney2yeRLe5U"
+        }
+      ],
+      "matchOpinion": [
+        {
+          "question": "Who Will Win Toss...?",
+          "answer": "Australia"
+        },
+        {
+          "question": "What will Toss Winning Team Opt...?",
+          "answer": "Bowling First"
+        },
+        {
+          "question": "Both Inning Avg  Match Runs...?",
+          "answer": "250-300 Runs"
+        }
+      ],
+      "preview": "success",
+      "teamPreviewHTML": "<h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>",
+      "teamScreenShorts": ""
+    }
+    
   ]
   }
